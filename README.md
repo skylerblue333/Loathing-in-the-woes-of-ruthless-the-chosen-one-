@@ -40,7 +40,7 @@ Skyler Blue begins this novel believing that survival requires him to understand
 
 The first song had no title.
 
-It arrived at 3:17 in the morning, carried through the cheap speaker of a phone Skyler had already thrown against the wall twice.
+It arrived at 4:44 in the morning, carried through the cheap speaker of a phone Skyler had already thrown against the wall twice.
 
 The screen was black. The room was black. Beyond the blinds, the city held its breath beneath a low ceiling of cloud, and somewhere in the distance a truck dragged its brakes down an empty street.
 
