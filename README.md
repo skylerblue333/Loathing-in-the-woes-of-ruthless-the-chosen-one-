@@ -82,11 +82,11 @@ He took a screenshot.
 
 The screenshot showed a blank screen.
 
-Skyler stared at the difference. He took another screenshot. This time it showed the message, but the timestamp had changed to 3:04 a.m.
+Skyler stared at the difference. He took another screenshot. This time it showed the message, but the timestamp had changed to 4:04 a.m.
 
 He looked at the clock on the wall.
 
-3:18.
+4:44.
 
 The phone buzzed again.
 
