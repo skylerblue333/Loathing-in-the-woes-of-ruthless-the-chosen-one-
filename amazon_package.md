@@ -95,3 +95,10 @@ For Kindle, convert the Markdown master into a reflowable file with clean headin
 ### Positioning note
 
 Present the book as an original fictional thriller. Do not describe it as testimony, a verified account of government wrongdoing, or an allegation against real public figures or groups. The strongest commercial position is the novel’s actual premise: a morally complex father caught inside a fictional influence operation that weaponizes technology, media, and uncertainty while he tries to protect the people he loves.
+
+
+**Christmas self-moving chessboard continuity:** Preserve the memory as a family detail about extra work, curiosity, and shared time. It is not a product endorsement and should not imply that an expensive gift creates talent.
+
+### Family Legacy Continuity Check
+
+Before publication, confirm that Chapter Twenty-Three and the epilogue retain the Luna/chess, Summer/rain, Alexis/seashell, and orange-morning-light motifs. Preserve the harmless code Easter egg `PROUD_BEFORE_PROOF = true`. Its meaning is unconditional parental love and pride, not a clue to the thriller plot. Do not market the daughters as victims or use their private details as sales copy.

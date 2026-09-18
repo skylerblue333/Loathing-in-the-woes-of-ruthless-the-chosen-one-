@@ -351,6 +351,10 @@ This is the emotional climax. Skyler understands that survival has made him susp
 
 **End beat:** Skyler chooses not to publish a damaging file that would destroy an innocent person’s life, even though publishing it would make his case appear stronger.
 
+**Family Easter-egg beat:** Skyler gives Luna a chess knight, Summer a rain-marked card, and Alexis a seashell. He tells all three that he was proud of them before grades, trophies, jobs, public approval, or proof of any kind. The phrase **“proud before proof”** becomes a private family rule rather than a clue.
+
+**Continuity lock:** The epilogue repeats the knight/rain/shell motif and includes the harmless code Easter egg `PROUD_BEFORE_PROOF = true`. The line must never be framed as surveillance, prophecy, or hidden evidence; it is simply Skyler's legacy message to his daughters.
+
 ## Chapter 24 — The Choice
 
 **Time:** October 11–October 14.
@@ -364,6 +368,8 @@ Skyler rejects both the role of obedient victim and the role of righteous hacker
 **Purpose:** Answer what the Chosen One chooses to become.
 
 **End beat:** A new anonymous message arrives: **THE NETWORK IS GONE. THE PAWNS REMAIN.** Skyler deletes the message without opening the attachment.
+
+**Christmas chess-table beat:** The family legacy thread also preserves Skyler's idea of working two or three days digging plants to buy a self-moving chess set for Christmas. He hopes the moving pieces make a six-year-old curious, that her sisters eventually join, that Kaylee helps preserve it, and that Alexis can inherit a turn later. The point is shared table time, not performance.
 
 ## Epilogue — What Remains
 

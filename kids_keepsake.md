@@ -116,6 +116,64 @@ If you find another one, claim it. Family lore is allowed to evolve.
 
 ---
 
+## The Christmas Chess Set
+
+There is one future memory I wanted badly enough that I was willing to work extra for it.
+
+One Christmas, when one of you was six, I got stuck on the idea of buying a chess set whose pieces could move by themselves—the closest thing I could find to the chessboard in a Harry Potter movie. The kind of board where a child makes a move and then watches the opponent's piece glide across the squares like the game is alive.
+
+It was expensive—around **$1,300** for the set I had my eye on. My plan was simple and probably a little ridiculous: go dig plants for two or three days, make the extra money, and turn the work into a Christmas surprise.
+
+I did not care whether that board ever produced a chess champion.
+
+I hoped the moving pieces would make one of you curious enough to sit down with me. Maybe curiosity would become one game. Maybe one game would become lessons. Maybe chess would become something we shared. Maybe Summer would want a turn. Maybe Alexis would grow into it later. I hoped Kaylee would help take care of the board so that, years later, the same pieces might still slide across the same squares for the next sister.
+
+That is the Easter egg inside the purchase: **I was not buying a $1,300 chess set because I needed you to become great at chess. I was trying to buy us a reason to sit at the same table.**
+
+If the board survived for years, good. If you loved chess, even better. If you played it twice and decided your dad had spent too much money on a robot board, that would be pretty funny too.
+
+The thing I wanted to last was not the electronics.
+
+It was the invitation.
+
+Sit down. Make a move. Let me teach you what I know. Teach me something back. Bring your sisters. Laugh when the pieces move by themselves. Beat me eventually and pretend it was easy.
+
+That was the dream.
+
+---
+
+## Proud Before Proof
+
+If you find the phrase **PROUD BEFORE PROOF** in this book, in code, in a note, or buried somewhere in one of my projects, it is for the three of you.
+
+It means I was proud of you before a report card told me anything, before a trophy, before a degree, before a job title, before money, before anybody online knew your name, and before you had anything to prove.
+
+**Luna:** the chess knight means I believe in your mind and your choices. You do not have to see the whole board to make a good next move.
+
+**Summer:** the rain means I believe in your ability to grow through changing seasons. A storm is something you experience, not your identity.
+
+**Alexis:** the seashell means I believe in the quiet things you notice. Small things can hold enormous memories.
+
+**For all three of you:** orange morning light means I would choose another ordinary morning with you over any dramatic answer in this book.
+
+And the line hidden in the code—
+
+`PROUD_BEFORE_PROOF = true`
+
+—means the condition never changes.
+
+You can succeed and I am proud of you.
+
+You can fail and I am proud of you.
+
+You can choose a life completely different from the one I imagined and I am proud of you.
+
+You can disagree with me and I am proud of you.
+
+You never have to become impressive enough to deserve being loved by your dad.
+
+---
+
 ## Open This When...
 
 ### You think you disappointed me

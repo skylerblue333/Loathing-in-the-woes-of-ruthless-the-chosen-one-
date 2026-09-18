@@ -5579,6 +5579,31 @@ Skyler smiled.
 
 “I will.”
 
+Before the moment could become another speech, Skyler reached into his pocket.
+
+For Luna, he had a small black chess knight on a key ring.
+
+“For when you cannot see the whole board,” he said. “You do not have to know every move. I believe in the way you think, and I am proud of you even when the move does not work.”
+
+For Summer, he had a blue card with three crooked lines of rain drawn across it.
+
+“For when life feels like weather,” he said. “A storm can be real without getting to name you. I believe in who you are becoming after the rain too.”
+
+For Alexis, he had a seashell small enough to disappear inside her hand.
+
+“For when everybody is paying attention to the loudest thing in the room,” he said. “Small things still matter. The things you notice matter. You matter.”
+
+He looked at all three of them.
+
+“I was proud of you before you proved anything. Before grades. Before trophies. Before jobs. Before anybody clapped for you. Before you got anything right and after you get things wrong. I love you because you are my daughters. I believe in you because you will become yourselves.”
+
+Luna closed her fingers around the knight. Summer drew rain over the four-door house. Alexis held the shell to her ear.
+
+**Proud before proof.**
+
+It was the first code Skyler had written in years that did not need a computer.
+
+
 Luna looked at the violin case. “Are you going to jail?”
 
 “I don’t think so.”
@@ -5802,6 +5827,22 @@ The blank door now contained a small yellow square.
 “Is it a door?”
 
 “No,” Luna replied. “It’s what you put near a door so people can see.”
+
+Skyler noticed the three small things had survived six months of ordinary life. Luna had clipped the black knight to her bag. Summer had redrawn the rain in the corner of the four-door picture. Alexis had the seashell in her pocket and produced it with the seriousness of evidence.
+
+At the technology center, buried in a beginner demo project, Skyler had left them another message. Three harmless identifiers—`knight`, `rain`, `shell`—and one line that changed nothing in the program:
+
+`PROUD_BEFORE_PROOF = true`
+
+The girls did not need to understand code to understand the rule.
+
+His pride was not a grade. Not a trophy. Not a reputation score. Not obedience. Not agreement.
+
+It was love with no test attached.
+
+On the shelf behind the demo computers sat another family joke: a note about **the ridiculous Christmas chessboard**—the self-moving set Skyler had once considered working extra days digging plants to buy because he wanted one of the girls to see the pieces move like movie magic and decide chess might be worth learning. He had imagined the board surviving long enough for the younger sisters to inherit their turns. Whether the electronics lasted was never really the point. He had wanted a reason for all three girls to keep coming back to the same table.
+
+
 
 Skyler looked at the drawing.
 

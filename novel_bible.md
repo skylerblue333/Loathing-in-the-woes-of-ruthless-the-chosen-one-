@@ -75,6 +75,24 @@ The surveillance feed must recur through five ordinary channels: music recommend
 The daughters remain the emotional counterweight. Luna receives chess imagery, Summer receives rain imagery, and Alexis receives seashell imagery. These motifs are not secret instructions or proof of surveillance. They are Skyler's private attempts to remember his children as people rather than symbols.
 
 
+## Family Legacy Motif — Proud Before Proof
+
+The daughters are not leverage, evidence, or symbolic victims. They are three distinct people and the emotional proof that Skyler's final growth is toward love without control.
+
+Recurring family Easter eggs must remain consistent across editions:
+
+- **Luna — chess knight:** choices, patience, intelligence, and permission not to know every move.
+- **Summer — rain:** change, renewal, and the idea that storms are experiences rather than identities.
+- **Alexis — seashell:** ordinary memory, small observations, and the truth that quiet things still matter.
+- **Orange morning light — all three:** longing for ordinary family time rather than dramatic answers.
+- **`PROUD_BEFORE_PROOF = true` — all three:** Skyler's pride and love are not conditional on achievement, agreement, public success, or perfection.
+
+The phrase **proud before proof** may recur subtly in code comments, notes, filenames, drawings, or dialogue. It is never a surveillance clue or supernatural signal. It is a father-to-daughters legacy message.
+
+At least one scene in Chapter Twenty-Three and one beat in the epilogue should carry these motifs so the family thread remains inside the story rather than existing only in front matter.
+
+The Christmas self-moving chessboard is a secondary family motif: Skyler imagines working two or three days digging plants to afford an expensive board whose pieces move like movie magic. The goal is curiosity, shared time, and a family object the sisters can inherit—not pressure to become a chess champion.
+
 ## Narrative Rules
 
 The primary narrative uses close third person centered on Skyler. First-person inserts appear as Truth Protocol entries, audio transcripts, private notes, and memories. These inserts should not be used to confirm every suspicion. They should reveal Skyler’s emotional truth and the evolution of his reasoning.

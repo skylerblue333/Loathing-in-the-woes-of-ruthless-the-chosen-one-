@@ -8573,6 +8573,39 @@ Alexis knocked down the tower with the tenderness of a demolition expert who exp
 
 Skyler smiled and placed a red block on a blue one and settled a yellow rectangle on top. “I will.”
 
+Before he let the moment move on, Skyler reached into the pocket of his jacket.
+
+He had brought three small things and almost talked himself out of giving them away because he was afraid anything symbolic would become another puzzle. Then he remembered that not every symbol had to be a warning.
+
+For Luna, he had a small black chess knight on a key ring.
+
+“For when you cannot see the whole board,” he said. “You do not have to know every move. I believe in the way you think, and I am proud of you even when the move does not work.”
+
+For Summer, he had folded a blue index card and drawn three crooked lines of rain across the front.
+
+“For when life feels like weather,” he said. “A storm can be real without getting to name you. I believe in the person you are becoming after the rain too.”
+
+For Alexis, he had a seashell small enough to disappear inside her hand.
+
+“For when everybody is paying attention to the loudest thing in the room,” he said. “Small things still matter. The things you notice matter. You matter.”
+
+The girls looked at him with the suspicious patience children reserve for adults who have accidentally become sincere.
+
+He laughed softly. “All right. Last part.”
+
+He looked at all three of them.
+
+“I was proud of you before you proved anything. Before grades. Before trophies. Before jobs. Before anybody clapped for you. Before you got anything right and after you get things wrong. I love you because you are my daughters. I believe in you because I know you will become yourselves.”
+
+Luna turned the knight over in her palm. Summer added rain to the roof of the four-door house. Alexis held the shell to her ear even though the room was nowhere near an ocean.
+
+Skyler stored the picture in his mind without reaching for a phone.
+
+**Proud before proof.**
+
+It was the first code he had written in years that did not need a computer.
+
+
 Luna’s eyes went to the violin case. “Are you going to jail?”
 
 He held her gaze. “I don’t think so.”
@@ -9310,6 +9343,19 @@ On the sidewalk, someone had chalked a door with a doorknob too high for a child
 Skyler’s laughter startled him with its own gentleness. “I will listen,” he said. “You tell me if it’s for repeating.”
 
 He had failed many things. He had failed loudly and privately. He had failed because he was certain and failed because he was scared. He had stopped counting his survival as proof that he had been right. He had started counting it as a chance to become useful. He kept, in a drawer by his bed, letters he had written to Luna about rooks, to Summer about rain, to Alexis about shells. He had told them the parts of the story they could hold without dissolving into someone else’s fear. He had not given them his monsters. He had given them doors.
+
+He had also left a smaller Easter egg where only a patient reader or a curious daughter was likely to notice it. In the harmless demo repository used by the technology center were three ordinary identifiers: `knight`, `rain`, and `shell`. Beneath them sat one line that did absolutely nothing to the software:
+
+`PROUD_BEFORE_PROOF = true`
+
+It was not a command. It was not a cipher. It was not evidence of anything except a father who wanted three girls to know that his pride in them was never conditional on achievement. Luna could lose every chess game. Summer could walk through a hundred storms. Alexis could change her mind about who she wanted to become a thousand times. The value stayed true.
+
+There was another private joke in the archive: **the absurd Christmas chessboard**. Skyler had once fixated on a self-moving set that cost about thirteen hundred dollars, the closest thing he could find to the living chessboard in a Harry Potter movie. He had thought about spending two or three days digging plants to pay for it. Not because a six-year-old needed luxury chess equipment. Because he could picture a child watching a knight glide across the board by itself and thinking, for one second, *that is magic*.
+
+Maybe that second would become curiosity. Maybe curiosity would become a game with Dad. Maybe the other girls would follow. He had even imagined Kaylee keeping the board safe long enough for Alexis to grow into it.
+
+The machine was never the inheritance he cared about. The table was. The invitation was. The possibility that years later three sisters might remember their father trying, perhaps extravagantly and a little foolishly, to make learning feel like magic.
+
 
 Above him, the sky opened without explanation. It was not a sign. It was an open sky.
 
