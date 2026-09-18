@@ -11,7 +11,7 @@
 
 **Audience promise:** A dark, cinematic story about a gifted father whose phone, reputation, relationships, and digital identity become contested territory. The novel promises escalating uncertainty, morally complicated allies, a psychologically intelligent antagonist, an original fictional music thread, and an ending in which purpose matters more than revenge.
 
-**Emotional promise:** The book is also a future keepsake for Luna, Summer, and Alexis. Its central message is that Skyler’s love for them remains real through distance, mistakes, and unfinished explanations. He learns to protect their privacy instead of turning them into evidence.
+**Emotional promise:** The book is also a future keepsake for Luna, Summer, and Alexis, with Kaylee acknowledged as Skyler's first love and the mother at the beginning of the family story. Its central message is that love can remain real through distance, mistakes, and unfinished explanations. Skyler learns to protect his daughters' privacy instead of turning them into evidence, while preserving ordinary family memories, humor, games, and messages they can discover when they are older.
 
 **Fictionalization standard:** All criminal organizations, agencies, operators, media campaigns, hacking events, political communications, and public figures appearing in the novel are fictionalized or treated as contested in-world claims. The novel does not present unsupported allegations about real people, governments, ethnic groups, or institutions as established fact. Technical details remain non-operational and narrative-level. Existing music is not reproduced; music references are descriptive or fictional.
 
@@ -26,7 +26,7 @@
 | Component | Status | Purpose |
 |---|---|---|
 | Full-length manuscript | Complete draft | `manuscript_for_publication.md` |
-| Family keepsake | Complete draft | `kids_keepsake.md` |
+| Family keepsake | Expanded family edition | `kids_keepsake.md` |
 | Amazon metadata package | Updated | `amazon_package.md` |
 | README | Updated | Project status and publication instructions |
 | Novel bible | Complete | Internal continuity reference |
