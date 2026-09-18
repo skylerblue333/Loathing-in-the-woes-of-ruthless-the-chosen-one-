@@ -231,6 +231,15 @@ Not a villain.
 
 **Your dad.**
 
+
+There is one tiny memory I never want lost: **all three of your first words were “Dad.”**
+
+I cannot explain what that meant to me. Out of all the words in the world, that was the first one each of you gave me, and I have always been grateful for it.
+
+If years pass and this book is one of the places you come looking for me, I hope you remember that moment and remember me with love. But I do not want memory to become a weight you have to carry. Live your lives. Become yourselves. Build families, friendships, careers, adventures, and stories that belong to you.
+
+Just keep a little room somewhere in your memory for your dad—the guy who was ridiculously proud that your first word was his name, and who loved you long before you could say it.
+
 ### To the Judge
 
 I also want to say something clearly to the judge whose decision became part of my family's timeline.
