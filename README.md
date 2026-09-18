@@ -47,3 +47,12 @@ This pass restored the stronger original dedication and “Before the Glitch” 
 The family layer is intentionally stronger: Hope Campus and practical service, education, work, church, fatherhood, and gratitude for a second chance all receive more space. The daughters' keepsake now includes individual notes for Luna, Summer, and Alexis, family game ideas, an Easter-egg key, and “Open This When” pages designed to remain meaningful when they are older.
 
 The approximately 132,000-word publication manuscript remains the canonical long-form source. This repository is **ready for professional copyedit and KDP layout preparation**, not a guarantee of bestseller status or a substitute for the final proofing/formatting steps Amazon requires.
+
+
+## September 18, 2026 final family Easter-egg pass
+
+The final family pass moves Luna, Summer, and Alexis further into the actual story rather than leaving their importance only in the dedication. Chapter Twenty-Three and the epilogue now carry a consistent set of legacy motifs: Luna/chess, Summer/rain, Alexis/seashell, orange morning light for all three, and the code-style Easter egg `PROUD_BEFORE_PROOF = true`.
+
+The meaning is explicit: Skyler loves his daughters, believes in the people they will become, and is proud of them without requiring grades, trophies, money, agreement, perfection, or public success. The children remain people rather than plot leverage; the motifs are family messages, not evidence of surveillance or supernatural communication.
+
+The continuity rule is recorded in `novel_bible.md`, the chapter beats are preserved in `loathing_chapter_plotline_timeline.md`, and the full explanation is preserved in `kids_keepsake.md` and `family_easter_egg_ledger.md`.
