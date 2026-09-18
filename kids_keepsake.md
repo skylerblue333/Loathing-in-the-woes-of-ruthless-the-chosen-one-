@@ -116,6 +116,32 @@ If you find another one, claim it. Family lore is allowed to evolve.
 
 ---
 
+## The Christmas Chess Set
+
+There is one future memory I wanted badly enough that I was willing to work extra for it.
+
+One Christmas, when one of you was six, I got stuck on the idea of buying a chess set whose pieces could move by themselves—the closest thing I could find to the chessboard in a Harry Potter movie. The kind of board where a child makes a move and then watches the opponent's piece glide across the squares like the game is alive.
+
+It was expensive—around **$1,300** for the set I had my eye on. My plan was simple and probably a little ridiculous: go dig plants for two or three days, make the extra money, and turn the work into a Christmas surprise.
+
+I did not care whether that board ever produced a chess champion.
+
+I hoped the moving pieces would make one of you curious enough to sit down with me. Maybe curiosity would become one game. Maybe one game would become lessons. Maybe chess would become something we shared. Maybe Summer would want a turn. Maybe Alexis would grow into it later. I hoped Kaylee would help take care of the board so that, years later, the same pieces might still slide across the same squares for the next sister.
+
+That is the Easter egg inside the purchase: **I was not buying a $1,300 chess set because I needed you to become great at chess. I was trying to buy us a reason to sit at the same table.**
+
+If the board survived for years, good. If you loved chess, even better. If you played it twice and decided your dad had spent too much money on a robot board, that would be pretty funny too.
+
+The thing I wanted to last was not the electronics.
+
+It was the invitation.
+
+Sit down. Make a move. Let me teach you what I know. Teach me something back. Bring your sisters. Laugh when the pieces move by themselves. Beat me eventually and pretend it was easy.
+
+That was the dream.
+
+---
+
 ## Proud Before Proof
 
 If you find the phrase **PROUD BEFORE PROOF** in this book, in code, in a note, or buried somewhere in one of my projects, it is for the three of you.
