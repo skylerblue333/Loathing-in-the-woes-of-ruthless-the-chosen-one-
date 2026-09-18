@@ -200,7 +200,7 @@ I have said things like:
 
 **“The judge let me walk for murder in 2020.”**
 
-And in even rougher language, I have described it as if I had “walked for murder by the grace of God because I was a good dad during COVID.”
+And in even rougher language, I have described it as if I had “walked for murder by the grace of God because I was a good dad during COVID erra.”
 
 Those are not precise legal statements, and I do not want my daughters someday reading those lines as if they were findings written in a court order.
 
@@ -208,7 +208,7 @@ They were the language of a man trying to describe how close he felt to losing h
 
 The real meaning was simpler:
 
-**That judge gave me time.**
+**That judge gave me time, the best type.**
 
 In my head, I sometimes counted it as five more years with my children.
 
@@ -250,9 +250,11 @@ I got to try again.
 
 Most importantly, I got more time with my daughters.
 
-I have always carried a strange respect for the court because of that.
+I have always carried a strange respect for the court but especially after hearing that because of that gift of time.
 
 At times, disrespecting the judge felt almost like taking God's name in vain—not because a judge is God, but because in that room I understood that one human decision could change the entire shape of a family's future.
+
+rachet songs that came on my feed I thought on purpose, disrespect a judge I would rip off speakers faster than you could imagine. 
 
 So if that judge ever reads this:
 
@@ -276,9 +278,11 @@ I went to school because learning meant I still believed I had a future.
 
 I worked because responsibility gives a person gravity.
 
-I went to church because I needed something larger than my anger.
+I went to church because I found God after I cried out to him, he was the only one really there ever. I loved God and made a great relationship with him although during the difficult times I stoped talking to God out of anger. 
 
-I built because creating something felt better than letting pain turn me into somebody who only destroyed.
+he never left though I know 
+
+I built because creating something felt better than letting pain turn me into somebody who destroyed.
 
 I became obsessed with technology because a blank screen could still become something that had never existed five minutes earlier.
 
