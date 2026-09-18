@@ -21,51 +21,337 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For **Kaylle**, and for Luna, Summer, and Alexis.
+For Kaylle.
 
-For the children who deserve to know that they were loved before the words were perfect, during the distance, and after every mistake. For the people who stayed in my heart when life became too complicated to explain in one conversation.
+For Luna, Summer, and Alexis.
 
-Some songs became part of the weather of our family story. **“Something in the Orange”** carries the ache of distance and the hope that morning can still find us. **“Feathered Indians”** belongs here as a reminder that memory can be tender, complicated, and unfinished. These titles are signposts, not a soundtrack to anyone else’s life. The words that matter most are mine:
+For my kids, whom I love the most, and who needed a dad to stop performing and start telling the truth. The only truth I can give you is that I loved you and fought very hard for what I was able to have. I still pray and picture taking you to chess competitions, paying for lessons, showing up for the things that matter, and being there as you grow into everything you are meant to become. I will always try.
 
-> I love you. I missed you. I never stopped carrying you with me.
+Some songs became part of the memories around this story. **“Something in the Orange”** and **“Feathered Indians”** remind me of distance, love, and the way a song can hold a feeling when a person cannot find the right words. I am naming the songs, not borrowing their lyrics. The words in this book are my own.
 
-This book is not asking you to defend me or agree with every choice I made. It is a letter made out of scenes, questions, failures, work, faith, and hope. I want you to find it when you are old enough to read it as your own story too—not as a burden, but as proof that a person can use a difficult season to become more honest, more useful, and more loving.
+### *Before the Glitch*
 
-## Before the Glitch
+If you found this, you were probably looking harder than most people do.
 
-If you found this book years from now, you may be looking for the part that belongs only to you. Start here.
+Good. There are Dad Game Night notes, letters to my grandsons, and pieces of our story spilled everywhere. That means this part was written for you.
 
-Before the phone, before the code, before the companies and the accusations and the stories other people tried to tell about me, I was a boy who wanted to belong and wanted to stand for something. I was curious, sometimes mischievous, and often too certain that if I understood a problem deeply enough I could solve it without hurting anyone along the way. I learned later that good intentions do not remove consequences. They only give you a responsibility to face them.
+My name is **Skyler Blue Spillers**.
 
-I grew up around ordinary work: dirt, plants, long days, tired people, and the quiet mathematics of making enough money to keep going. There was work around Black Diamond Nursery. There was school, DECA, charity work, the Make-A-Wish community, church, first love, heartbreak, mistakes, and the lessons that only arrive after a person has stopped pretending they already know everything.
+Before the companies, before the code, before SKYCOIN4444, before HopeAI, before the books, before people started trying to decide whether I was brilliant, crazy, lucky, doomed, dangerous, harmless, right, wrong, or simply stubborn—
 
-Those years taught me to notice what needed doing. Water the plants. Carry the boxes. Answer the question. Show up when someone is waiting. Finish the assignment. Apologize when the apology is owed. Try again when the first attempt fails.
+I was a normal kid.
 
-Technology gave that instinct a new language. I discovered that a blank screen could become something that had not existed five minutes earlier. I studied information technology and software development. I learned about leadership, manufacturing, team work, and the discipline of building something that other people would have to rely on. School was not a decorative line in my history. It was one of the ways I kept choosing a future when the past was loud.
+At least I think I was. A little mischievous, wanting to belong, and wanting to stand for something.
 
-Work taught me a different kind of intelligence. A plan had to survive a long shift, a broken process, an unexpected bill, a tired team, and the human being standing in front of you who needed patience more than a lecture. I learned that a good idea was not enough. It had to be useful. It had to be maintained. It had to leave someone safer than it found them.
+That sentence matters more than it appears to.
 
-Volunteering made that lesson personal. At Hope Campus, homelessness was not an abstract argument. It was a person waiting for a meal, a form, a phone call, a place to sit, or someone willing to learn their name. Charity work and community service taught me that dignity is often delivered through small acts repeated without applause. Church gave me a place to practice humility, even when I did not always practice it well. Faith, at its best, did not make me feel superior. It asked me to become responsible for what I did with the time I had been given.
+I grew up around ordinary work. Dirt. Plants. Long days. People trying to make enough money to keep going. Somewhere in those early years I learned something that later became both one of my greatest strengths and one of my worst habits:
 
-Then I became a father.
+**If something is broken, I want to figure out why.**
 
-Luna. Summer. Alexis.
+Machines.
 
-Three daughters who made every grand theory about success answer to simpler questions: Did you show up? Did we know you loved us? Did you make us laugh? Did you keep trying to make the world safer? Did you remember that we were people and not proof of anything?
+Computers.
 
-My children became the measure beneath every other measure. I imagined chess competitions, lessons, school events, rainy afternoons, shells held to ears, grocery-store jokes, and the ordinary work of being present. I did not always get presence right. I made mistakes. I let fear and pride speak too loudly. I loved people and relationships that became tangled. A love story that once felt like a home became part of the wreckage I had to understand without turning another person into a villain for the convenience of my memory.
+Businesses.
 
-In 2020, during a difficult legal and family season, I was given time that I could have spent only resenting the world. Instead, I tried to use it. I volunteered. I returned to school. I worked. I helped family. I went to church. I learned to accept a schedule made of humble tasks and to be grateful for the chance to do something constructive with a day.
+Relationships.
 
-That time did not make me perfect, and it did not erase what had happened. It gave me an opportunity. I hope the person who gave me that opportunity can see that I tried to honor it. I tried to become a good man by doing good work, serving people, learning what I did not know, and building toward something greater than the worst sentence anyone could say about me.
+Institutions.
 
-If you read the thriller that follows, you will see a man tempted to explain every wound as part of a hidden design. You will see him frightened, angry, stubborn, and sometimes wrong. You will also see him choose a better use for his mind. The story is fictional. The love at its center is the part I want you to recognize.
+People.
 
-I never wanted to let you go. I still love all of you. I miss you in the morning, especially when I see the sun and remember how many ordinary mornings a family can hold. If distance has made some things difficult to say, let this book say them plainly:
+Eventually, entire systems.
 
-**You were never forgotten. You were never loved conditionally. You were always worth becoming better for.**
+And I want to do something about it. That does not always mean it works the way I hope.
 
----
+I did not know then how dangerous it could become to spend your life looking for the mechanism underneath everything.
+
+There was work around Black Diamond Nursery.
+
+There was school.
+
+There was DECA.
+
+There was the Make-A-Wish Foundation.
+
+There were first loves, mistakes, lessons, and blessings.
+
+There was technology.
+
+There was that first realization that computers were different from almost everything else in life: if you understood the language well enough, you could make an empty screen become something that had not existed five minutes earlier.
+
+That fascinated me.
+
+It still does.
+
+Then life became bigger.
+
+I became a father.
+
+Not theoretically.
+
+Not as some inspirational sentence you put in a biography.
+
+A real father.
+
+Three daughters.
+
+**Luna. Summer. Alexis.**
+
+Three little people capable of turning every grand philosophy about success into something embarrassingly simple.
+
+Did you show up?
+
+Did they know you loved them?
+
+Did you make them laugh?
+
+Were they safe?
+
+Did you leave their world slightly better than you found it?
+
+Everything else becomes smaller when those questions enter the room.
+
+I volunteered.
+
+Hope Campus mattered to me because homelessness stops being an abstract political subject when you are standing next to somebody who has nowhere to sleep.
+
+I tried to help where I could.
+
+There was charity work.
+
+There was Make-A-Wish.
+
+There was church.
+
+There were jobs.
+
+There were bills.
+
+There were relationships.
+
+There were mistakes.
+
+There were days when I was probably a better man than I realized and other days when I was not nearly as wise as I thought I was.
+
+That is life.
+
+Somewhere along the way I went deeper into technology.
+
+Southern New Hampshire University became part of the story.
+
+Information technology.
+
+Software development.
+
+Leadership.
+
+Manufacturing.
+
+Team-lead work.
+
+Long shifts followed by longer nights staring into computer screens.
+
+Eventually I stopped wanting only to work inside other people’s systems.
+
+I wanted to build my own.
+
+That impulse became **Innovative Information Technology Resolutions — IITR.**
+
+Then the projects multiplied.
+
+**SKYCOIN4444.**
+
+**HopeAI.**
+
+**SkySchool.**
+
+**SkyHope.**
+
+Social systems.
+
+Education.
+
+Artificial intelligence.
+
+Blockchain.
+
+Payments.
+
+Games.
+
+Communication.
+
+Live streaming.
+
+Marketplaces.
+
+Accessibility.
+
+Security.
+
+Enterprise software.
+
+Hundreds of repositories, experiments, prototypes, pages, APIs, discarded ideas, rebuilt ideas, ridiculous ideas, and occasionally very good ideas.
+
+I kept building.
+
+Sometimes too much.
+
+Probably often too much.
+
+My philosophy was never complicated:
+
+**Dream Bigger. Build Smarter. Help More People.**
+
+Technology with purpose.
+
+Innovation with hope.
+
+The future built one line of code at a time.
+
+Those phrases appear throughout my work.
+
+If you are searching for Easter eggs, start there.
+
+But coding was not the whole person.
+
+I played chess.
+
+A lot of chess.
+
+I liked it for the same reason I liked programming.
+
+Position.
+
+Possibility.
+
+Prediction.
+
+You look at what exists, imagine what could happen next, and try to see several moves farther than the person sitting across from you.
+
+That works beautifully on a chessboard.
+
+Life is considerably less polite.
+
+I started learning Mandarin. I became fascinated with China, language, culture, and the strange fact that technology can allow two people who grew up on opposite sides of Earth to speak almost instantly.
+
+There were relationships that crossed cultures.
+
+Relationships that failed.
+
+People I loved.
+
+People who loved me.
+
+People who hurt me.
+
+People I hurt.
+
+There was my former fiancée.
+
+There were attempts to move on afterward. There were dates. There were women I probably pursued partly because I was lonely and partly because my ego wanted proof that losing one relationship had not destroyed me.
+
+At one particularly ridiculous point, I thought dating two extremely attractive exotic dancers sounded funny.
+
+Young-man logic.
+
+It turns out life occasionally sends an invoice for jokes.
+
+Somewhere around these chapters, the story changes.
+
+Or perhaps **I** changed.
+
+That distinction becomes one of the central questions of this book.
+
+I call what came afterward:
+
+## **THE GLITCH**
+
+There was life before the glitch.
+
+And life after it.
+
+Before it, the world appeared mostly linear.
+
+You work.
+
+You come home.
+
+You raise children.
+
+You argue with your partner.
+
+You go to church.
+
+You volunteer.
+
+You take classes.
+
+You get promoted.
+
+You lose jobs.
+
+You meet people.
+
+You screw things up.
+
+You apologize.
+
+You try again.
+
+Cause.
+
+Effect.
+
+Then coincidences began feeling less coincidental.
+
+Messages arrived at strange times. Advertisements seemed unusually specific. Songs felt like responses. People occasionally said things that seemed connected to conversations they should not have known about. Phones became less like tools and more like mirrors.
+
+Fear makes patterns brighter.
+
+Technology does too.
+
+That combination can become powerful.
+
+And dangerous.
+
+The character called **Skyler** in this novel becomes obsessed with understanding it.
+
+Who is manipulating whom?
+
+Is there actually a larger machine?
+
+Is there simply a collection of unrelated people pursuing their own interests?
+
+Are algorithms amplifying ordinary coincidences?
+
+Are criminals exploiting confusion?
+
+Are institutions protecting themselves?
+
+Is grief rearranging reality into patterns because randomness hurts more?
+
+Or are several of those explanations simultaneously true?
+
+The book refuses to answer every question.
+
+On purpose.
+
+Because real life rarely hands you the source code.
+
+There are two kinds of fear in the modern world.
+
+One arrives loudly.
+
+A broken window.
+
+Footsteps.
+
+A threat.
+
+A courtroom.
 
 ## Content Note
 

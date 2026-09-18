@@ -6,7 +6,7 @@
 
 The novel is now assembled as a full-length draft of approximately **125,000 words** across a prologue, interlude, five story movements, twenty-four chapters, and an epilogue. The publication edition includes standard front matter, copyright language, dedication, content note, author’s note, and contents.
 
-The restored front matter now includes an expanded dedication for Kaylle, Luna, Summer, and Alexis, along with a polished “Before the Glitch” storyline that introduces Skyler’s family, work, school, church, volunteering, 2020 growth, and enduring love before the thriller begins. It references the song titles “Something in the Orange” and “Feathered Indians” as personal listening signposts without reproducing lyrics.
+The restored front matter now returns to the original personal dedication and “Before the Glitch” voice, with light grammar and clarity edits. It includes Kaylle, Luna, Summer, and Alexis, restores the family history before the thriller, and references the song titles “Something in the Orange” and “Feathered Indians” without reproducing lyrics.
 
 The emotional center is a father’s enduring love for Luna, Summer, and Alexis. The story uses the thriller plot to explore family separation, responsibility, faith, work, education, volunteering, institutional uncertainty, and the choice to become useful instead of consumed by fear.
 
