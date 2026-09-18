@@ -9350,6 +9350,13 @@ He had also left a smaller Easter egg where only a patient reader or a curious d
 
 It was not a command. It was not a cipher. It was not evidence of anything except a father who wanted three girls to know that his pride in them was never conditional on achievement. Luna could lose every chess game. Summer could walk through a hundred storms. Alexis could change her mind about who she wanted to become a thousand times. The value stayed true.
 
+There was another private joke in the archive: **the absurd Christmas chessboard**. Skyler had once fixated on a self-moving set that cost about thirteen hundred dollars, the closest thing he could find to the living chessboard in a Harry Potter movie. He had thought about spending two or three days digging plants to pay for it. Not because a six-year-old needed luxury chess equipment. Because he could picture a child watching a knight glide across the board by itself and thinking, for one second, *that is magic*.
+
+Maybe that second would become curiosity. Maybe curiosity would become a game with Dad. Maybe the other girls would follow. He had even imagined Kaylee keeping the board safe long enough for Alexis to grow into it.
+
+The machine was never the inheritance he cared about. The table was. The invitation was. The possibility that years later three sisters might remember their father trying, perhaps extravagantly and a little foolishly, to make learning feel like magic.
+
+
 Above him, the sky opened without explanation. It was not a sign. It was an open sky.
 
 Survival had created the warrior.
