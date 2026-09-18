@@ -40,4 +40,6 @@ Complete a professional copyedit and proofread. Confirm the final author name, c
 The default presentation is an original work of fiction inspired by themes of surveillance, institutional uncertainty, family separation, digital manipulation, moral repair, and hope.
 
 
+**Christmas chess-set continuity:** Preserve Skyler's idea of working extra days digging plants to create a magical chess-learning experience and a family object the sisters can share. The emotional function is love and invitation, not achievement pressure.
+
 **Final family continuity requirement:** The publication edition must preserve the daughters as distinct people and emotional anchors. Luna carries the chess-knight motif, Summer the rain motif, Alexis the seashell motif, and orange morning light belongs to all three. The recurring phrase/code Easter egg `PROUD_BEFORE_PROOF = true` means Skyler loves, believes in, and is proud of his daughters regardless of achievement or agreement. It is a family legacy signal, never evidence inside the conspiracy plot.
