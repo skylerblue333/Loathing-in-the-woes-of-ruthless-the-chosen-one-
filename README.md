@@ -4,7 +4,7 @@
 
 ## Final manuscript status
 
-The novel is now assembled as a full-length draft of approximately **125,000 words** across a prologue, interlude, five story movements, twenty-four chapters, and an epilogue. The publication edition includes standard front matter, copyright language, dedication, content note, author’s note, and contents.
+The novel is now assembled as a full-length draft of approximately **132,000 words** across a prologue, interlude, five story movements, twenty-four chapters, and an epilogue. The publication edition includes standard front matter, copyright language, dedication, content note, author’s note, and contents.
 
 The restored front matter now returns to the original personal dedication and “Before the Glitch” voice, with light grammar and clarity edits. It includes Kaylee, Luna, Summer, and Alexis; preserves the original “Before the Glitch” voice; deepens the family, volunteering, school, work, church, and 2020 second-chance storyline; and references Zach Bryan song titles without reproducing lyrics.
 
@@ -46,4 +46,4 @@ This pass restored the stronger original dedication and “Before the Glitch” 
 
 The family layer is intentionally stronger: Hope Campus and practical service, education, work, church, fatherhood, and gratitude for a second chance all receive more space. The daughters' keepsake now includes individual notes for Luna, Summer, and Alexis, family game ideas, an Easter-egg key, and “Open This When” pages designed to remain meaningful when they are older.
 
-The 125,000-word publication manuscript remains the canonical long-form source. This repository is **ready for professional copyedit and KDP layout preparation**, not a guarantee of bestseller status or a substitute for the final proofing/formatting steps Amazon requires.
+The approximately 132,000-word publication manuscript remains the canonical long-form source. This repository is **ready for professional copyedit and KDP layout preparation**, not a guarantee of bestseller status or a substitute for the final proofing/formatting steps Amazon requires.
