@@ -1,12 +1,12 @@
-# For Luna, Summer, and Alexis
+# For Kaylee, Luna, Summer, and Alexis
 
 ## A Letter You Can Find Whenever You Need It
 
-My girls,
+Kaylee, my first love, and my girls,
 
 If you are reading this years from now, I hope you are old enough to see the whole picture and still young enough to remember that love is not supposed to be a performance. It is supposed to be something you can feel in the ordinary things: a ride, a meal, a question answered twice, a hand held in a hard moment, a person who keeps trying to become safer and kinder.
 
-I want you to know this first: **I loved you before I knew how to say it well, and I love you now.** Nothing in my mistakes, in the distance, or in the parts of our story that became complicated changes that truth.
+I want you to know this first: **I loved you before I knew how to say it well, and I love you now.** Nothing in my mistakes, in the separation, or in the parts of our story that became complicated changes that truth. Kaylee, I wish we had never been separated. I never wanted to let you go, and I am sorry for the hurt and distance that grew between us. In the story I leave here, forces larger than either of us turned private pain into public confusion. I cannot rewrite every part of the past, but I can tell the truth about what I carried: love, regret, and the wish that we had been given more peaceful years together.
 
 There were years when I wanted to fix everything at once. I thought if I could explain every misunderstanding, solve every problem, and prove every point, then I could bring back the time we lost. I learned that love is not the same as winning an argument. Love is telling the truth without making children carry an adult’s war. Love is respecting your privacy. Love is making room for your own thoughts, even when I am afraid.
 

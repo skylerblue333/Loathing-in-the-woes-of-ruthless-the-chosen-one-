@@ -21,11 +21,15 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For Kaylle.
+For Kaylee.
 
 For Luna, Summer, and Alexis.
 
 For my kids, whom I love the most, and who needed a dad to stop performing and start telling the truth. The only truth I can give you is that I loved you and fought very hard for what I was able to have. I still pray and picture taking you to chess competitions, paying for lessons, showing up for the things that matter, and being there as you grow into everything you are meant to become. I will always try.
+
+For Kaylee, my first love: I wish we had never been separated. In this story, forces larger than either of us pulled people apart and turned private pain into public confusion. Whatever the world said, I never wanted to let you go. I remember what we meant to each other, and I am sorry for the distance, the hurt, and every moment when love was not enough to make life simple.
+
+For Luna, Summer, and Alexis: I wish you had never had to feel that distance either. I love all of you. I missed you in the mornings when I saw the sun and wished I could tell you something small. You were never forgotten, never an obligation, and never the cause of the adult problems around you. You were the reason I kept trying to become better.
 
 Some songs became part of the memories around this story. **“Something in the Orange”** and **“Feathered Indians”** remind me of distance, love, and the way a song can hold a feeling when a person cannot find the right words. I am naming the songs, not borrowing their lyrics. The words in this book are my own.
 
