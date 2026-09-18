@@ -351,6 +351,10 @@ This is the emotional climax. Skyler understands that survival has made him susp
 
 **End beat:** Skyler chooses not to publish a damaging file that would destroy an innocent person’s life, even though publishing it would make his case appear stronger.
 
+**Family Easter-egg beat:** Skyler gives Luna a chess knight, Summer a rain-marked card, and Alexis a seashell. He tells all three that he was proud of them before grades, trophies, jobs, public approval, or proof of any kind. The phrase **“proud before proof”** becomes a private family rule rather than a clue.
+
+**Continuity lock:** The epilogue repeats the knight/rain/shell motif and includes the harmless code Easter egg `PROUD_BEFORE_PROOF = true`. The line must never be framed as surveillance, prophecy, or hidden evidence; it is simply Skyler's legacy message to his daughters.
+
 ## Chapter 24 — The Choice
 
 **Time:** October 11–October 14.
