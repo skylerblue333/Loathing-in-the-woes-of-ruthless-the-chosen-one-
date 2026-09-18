@@ -7,7 +7,7 @@
 
 **Secondary genres:** Speculative crime fiction, psychological suspense, cyberwar thriller, and family drama.
 
-**Manuscript length:** Approximately 125,000 words in the completed full-length draft. Final page count will depend on trim size, typography, and format.
+**Manuscript length:** Approximately 132,000 words in the completed full-length draft. Final page count will depend on trim size, typography, and format.
 
 **Tone:** Dark, cinematic, tense, morally serious, emotionally intimate, and ultimately hopeful.
 
