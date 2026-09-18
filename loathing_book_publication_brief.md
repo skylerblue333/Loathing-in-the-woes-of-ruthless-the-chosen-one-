@@ -5,7 +5,7 @@
 
 **Format:** Original full-length novel manuscript prepared in clean Markdown for editorial control, followed by conversion into a reflowable eBook and a 6 × 9 inch paperback interior.
 
-**Current length:** Approximately 125,000 words across a prologue, interlude, twenty-four chapters, and an epilogue.
+**Current length:** Approximately 132,000 words across a prologue, interlude, twenty-four chapters, and an epilogue.
 
 **Genre positioning:** Literary psychological techno-thriller with speculative crime, cyberwar suspense, organized-crime atmosphere, and an emotionally grounded family drama.
 
