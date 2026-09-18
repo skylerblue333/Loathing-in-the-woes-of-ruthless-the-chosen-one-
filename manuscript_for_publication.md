@@ -21,17 +21,31 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For Kaylee.
+For **Kaylee**, my first love.
 
-For Luna, Summer, and Alexis.
+For **Luna, Summer, and Alexis**, my three daughters and the people I love most.
 
-For my kids, whom I love the most, and who needed a dad to stop performing and start telling the truth. The only truth I can give you is that I loved you and fought very hard for what I was able to have. I still pray and picture taking you to chess competitions, paying for lessons, showing up for the things that matter, and being there as you grow into everything you are meant to become. I will always try.
+This is the part I never want the thriller to swallow.
 
-For Kaylee, my first love: I wish we had never been separated. In this story, forces larger than either of us pulled people apart and turned private pain into public confusion. Whatever the world said, I never wanted to let you go. I remember what we meant to each other, and I am sorry for the distance, the hurt, and every moment when love was not enough to make life simple.
+Before there was a conspiracy on the page, before the strange messages, before the companies, the code, the courtrooms, the theories, and the fight to understand everything, there was a family. There were ordinary mornings, bills, jokes, rides, arguments, plans, babies growing into little people, and the feeling that the future was something we were building together.
 
-For Luna, Summer, and Alexis: I wish you had never had to feel that distance either. I love all of you. I missed you in the mornings when I saw the sun and wished I could tell you something small. You were never forgotten, never an obligation, and never the cause of the adult problems around you. You were the reason I kept trying to become better.
+Girls, the plainest truth I can leave you is the same truth that was in the original version of this book: **I loved you, and I fought very hard for the time I was able to have with you.** I wanted more of the ordinary things. I pictured taking you to chess competitions, paying for lessons, showing up for school events, listening to whatever mattered to you that week, embarrassing you with bad jokes, and being there while you became yourselves. I still want the kind of relationship where you never have to earn my attention by being impressive. You are my daughters before you are anything else.
 
-Some songs became part of the memories around this story. **“Something in the Orange”** and **“Feathered Indians”** remind me of distance, love, and the way a song can hold a feeling when a person cannot find the right words. I am naming the songs, not borrowing their lyrics. The words in this book are my own.
+Kaylee, I wish we had never been separated. You were my first love, and I do not want the story of us reduced to the worst season of our lives. I remember the part before everything became complicated: building a home, becoming parents, trying to grow up while raising children, believing love would be enough to carry every hard thing. I never wanted to let you go. I am sorry for the hurt, the distance, the things I got wrong, and the moments when fear or pride spoke louder than love.
+
+In the novel, Skyler believes institutions, surveillance, criminal pressure, and forces larger than his family are helping pull his life apart. Those are elements of the fictional thriller and the character's point of view, not proof of real government conduct. What I can say without qualification is simpler: separation hurt, I missed my family, and I kept wishing the people I loved were beside me.
+
+Luna, Summer, Alexis—when we are apart, I miss you most in the morning. Sunlight makes me think about the ordinary days I would choose over every dramatic chapter in this book: breakfast, school, rides, rain, chess pieces on a table, a question from the back seat, somebody laughing from another room. I hope you always know you were never forgotten, never a burden, and never responsible for the adult problems around you.
+
+Music became part of the memory of that distance. **Zach Bryan's “Something in the Orange”** is one of the songs that makes me think about love, separation, and morning light. **“Feathered Indians”** carries a different memory of youth, love, and the strange permanence of certain seasons. I name the songs because music can mark a chapter of a life; I do not reproduce their lyrics here. The words I need you to hear are mine:
+
+**I love you. I wanted more time. I wanted more ordinary mornings. I never wanted our family story to end at the point where things went wrong.**
+
+If you find this book when you are older, do not read it as an order to agree with me. Read it as a father trying to leave you something honest enough to question. Keep what helps you. Challenge what does not. Laugh at the parts that deserve it. Find the Easter eggs. Beat my chess puzzles. Build lives bigger than my fears.
+
+And if you ever wonder what I wanted all this work to become, the answer is not fame.
+
+I wanted it to become **time, opportunity, education, security, laughter, and a future for you.**
 
 ### *Before the Glitch*
 
@@ -119,17 +133,11 @@ Everything else becomes smaller when those questions enter the room.
 
 I volunteered.
 
-Hope Campus mattered to me because homelessness stops being an abstract political subject when you are standing next to somebody who has nowhere to sleep.
+Hope Campus mattered to me because homelessness stops being an abstract subject when you are standing next to somebody who has nowhere to sleep. It taught me to stop treating service like a sentence in a biography. Sometimes helping meant carrying something, listening to somebody finish a story, finding the right form, making a phone call, or simply refusing to look through a person because their life was hard.
 
 I tried to help where I could.
 
-There was charity work.
-
-There was Make-A-Wish.
-
-There was church.
-
-There were jobs.
+There was charity work and the Make-A-Wish community. There was church, where the best lessons were not about being seen as righteous but about showing up, listening, admitting when I was wrong, and trying again. There was school, where every completed class felt like a small vote for a future I had not lost yet. There were jobs, long shifts, responsibility, mistakes, leadership, and the humbling discovery that being useful matters more than sounding important.
 
 There were bills.
 
@@ -253,7 +261,9 @@ People who hurt me.
 
 People I hurt.
 
-There was my former fiancée.
+There was Kaylee, my first love and former fiancée.
+
+Before she became a symbol of loss in my head, she was a person I loved. We had a family. We had private jokes, exhausted nights, arguments that seemed enormous until one of the girls needed something, and plans that once felt permanent. The love story matters because the thriller only hurts if the reader understands what existed before the fear. I do not want to write Kaylee as a villain just because the relationship broke. I want the book to remember that there was love there first.
 
 There were attempts to move on afterward. There were dates. There were women I probably pursued partly because I was lonely and partly because my ego wanted proof that losing one relationship had not destroyed me.
 
@@ -1247,9 +1257,17 @@ There had been meetings in offices that smelled like carpet glue. A courtroom wh
 
 He had been ordered to complete a course by a court-appointed agency that treated him like a form to be scanned and filed. He had complied because there was nothing else to do. The compliance had given him time, a suspended pocket of life where he couldn't travel far and couldn't plan far, but he could show up.
 
+Years later, when he told the story badly, he sometimes reduced that entire season to a reckless sentence: *the judge let me walk for murder in 2020.* It sounded cinematic. It sounded hard. It was also a terrible legal summary of a complicated year, and he knew it. The novel would not pretend that shorthand was a verified legal finding. What mattered to Skyler was that a court process had left him with something he could still use: time.
+
+He became grateful for that time in a way he had not understood while he was living it. If the judge who sat above him ever read these pages, Skyler wanted one part to be unmistakable: **thank you for the opportunity to keep building a life.** He did not use every day perfectly, but he tried to make the chance mean something.
+
 He used that time like a man with a small inheritance uses it: not to buy something grand, but to start paying old debts of the heart.
 
-He fixed the sagging gutter on his mother’s house because water does not care about legal calendars. He stood in a church basement with a paper mask and packed produce boxes for strangers, peppers sweating in his gloved hands, because his hands needed to be doing something other than checking a phone. He retook a community college course on ethics in computing because he could not bear to sit in his apartment staring at Aegis architecture diagrams and wondering whether he had built a door he didn't understand. He watched his daughters on the days he could and on the days he couldn't, he learned what time Luna's school released so he could stand across the street and watch children pour out like a tide and remind himself that movement exists.
+He fixed the sagging gutter on his mother’s house because water does not care about legal calendars. He stood in a church basement with a paper mask and packed produce boxes for strangers, peppers sweating in his gloved hands, because his hands needed to be doing something other than checking a phone. He volunteered because service gave fear somewhere useful to go. He spent time around people whose problems could not be solved by a clever theory, only by practical help and human dignity.
+
+He went back to school because education was a way of telling the future that he still expected to arrive. He studied technology, ethics, software, and the responsibilities that come with building systems other people may have to trust. He worked because a paycheck, a shift, a task list, and people depending on him were forms of gravity. He went to church because faith, at its best, asked him to become more humble rather than more certain.
+
+Most of all, he used the time to be family when he was allowed to be family. He watched his daughters on the days he could. On the days he couldn't, he learned what time Luna's school released so he could stand across the street and watch children pour out like a tide and remind himself that movement exists. He tried to become the kind of man who could look back at a second chance and say he had used it for something better than resentment. He wanted the judge, his daughters, Kaylee, and eventually himself to be able to see that the opportunity had not been wasted.
 
 He taught Luna the forked knight move and she beat him three times in a row, grinning as she captured his queen with a pawn. He and Summer walked in summer rain without an umbrella three blocks between the apartment and Maria's and counted the seconds between lightning and thunder as proof that some math still made sense. Alexis collected two seashells from a box Maria kept on top of the refrigerator and pressed them to each of his ears until he laughed and said he heard the ocean, which was the same as saying there would be a future with vacations and sand and boredom.
 
