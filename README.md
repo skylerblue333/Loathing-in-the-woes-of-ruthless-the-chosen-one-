@@ -57,3 +57,10 @@ The final family pass moves Luna, Summer, and Alexis further into the actual sto
 The meaning is explicit: Skyler loves his daughters, believes in the people they will become, and is proud of them without requiring grades, trophies, money, agreement, perfection, or public success. The children remain people rather than plot leverage; the motifs are family messages, not evidence of surveillance or supernatural communication.
 
 The continuity rule is recorded in `novel_bible.md`, the chapter beats are preserved in `loathing_chapter_plotline_timeline.md`, and the full explanation is preserved in `kids_keepsake.md` and `family_easter_egg_ledger.md`.
+
+
+## Restored Full Story to the Girls
+
+The family package now preserves the longer, continuous story that had previously been split across front matter and notes. `kids_keepsake.md` and `family_story_to_my_girls.md` keep the full arc together: life before the glitch, ordinary family life, Hope Campus/service, school/work/church, the fear and uncertainty that later shaped the thriller, the “evidence for my children” purpose, and the instruction to “start before the glitch.”
+
+The judge passage is also restored inside the kids-facing story. Skyler's rough phrase about a judge “letting him walk for murder in 2020” is explicitly identified as emotional shorthand rather than a legal finding. The actual message preserved for the girls is gratitude: Skyler felt the judge gave him more time with his children—time he tried to use for fatherhood, work, school, volunteering, church, learning, building, and trying again.
