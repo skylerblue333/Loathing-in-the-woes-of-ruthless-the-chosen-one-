@@ -5840,6 +5840,9 @@ His pride was not a grade. Not a trophy. Not a reputation score. Not obedience. 
 
 It was love with no test attached.
 
+On the shelf behind the demo computers sat another family joke: a note about **the ridiculous Christmas chessboard**—the self-moving set Skyler had once considered working extra days digging plants to buy because he wanted one of the girls to see the pieces move like movie magic and decide chess might be worth learning. He had imagined the board surviving long enough for the younger sisters to inherit their turns. Whether the electronics lasted was never really the point. He had wanted a reason for all three girls to keep coming back to the same table.
+
+
 
 Skyler looked at the drawing.
 
