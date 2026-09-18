@@ -7,7 +7,7 @@
 
 **Secondary genres:** Speculative crime fiction, psychological suspense, cyberwar thriller, and family drama.
 
-**Manuscript length:** Approximately 125,000 words in the completed full-length draft. Final page count will depend on trim size, typography, and format.
+**Manuscript length:** Approximately 132,000 words in the completed full-length draft. Final page count will depend on trim size, typography, and format.
 
 **Tone:** Dark, cinematic, tense, morally serious, emotionally intimate, and ultimately hopeful.
 
@@ -84,13 +84,13 @@ This is a work of fiction. Names, characters, organizations, technologies, locat
 
 ### Final publication checklist
 
-Complete a professional copyedit for grammar, punctuation, repeated phrasing, scene transitions, dialogue formatting, chapter-heading consistency, and continuity. Confirm every character name, relationship, age, object, location, and date against `novel_bible.md` and `loathing_chapter_plotline_timeline.md`. Confirm that the manuscript contains no private contact information, unsupported real-world allegations, identifiable details about uninvolved people, or reproduced song lyrics.
+Complete a professional copyedit for grammar, punctuation, repeated phrasing, scene transitions, dialogue formatting, chapter-heading consistency, pacing, and continuity. The family-edition pass has strengthened the dedication, “Before the Glitch” opening, 2020 second-chance arc, and keepsake material; the remaining copyedit should protect that voice rather than flatten it. Confirm every character name, relationship, age, object, location, and date against `novel_bible.md` and `loathing_chapter_plotline_timeline.md`. Confirm that the manuscript contains no private contact information, unsupported real-world allegations, identifiable details about uninvolved people, or reproduced song lyrics.
 
 For Kindle, convert the Markdown master into a reflowable file with clean heading styles and a linked table of contents. For paperback, prepare a 6 × 9 inch interior with mirrored margins, embedded fonts, page numbers beginning after the front matter, and chapter openings appropriate to the selected layout. Order a proof copy before enabling distribution. Check the cover against trim, bleed, spine-width, and barcode requirements.
 
-### Author bio placeholder
+### Author bio draft
 
-**[Author Name]** writes emotionally grounded fiction about technology, identity, power, family, and the moral choices people make when institutions fail. *Loathing in the Woes of Ruthlessness: The Chosen One* is [his/her/their] [debut novel / latest work]. [Add a truthful personal biography here.]
+**Skyler Blue Spillers** is a software builder, founder, father, chess player, and writer whose work explores technology, identity, family, resilience, and the moral choices people make under pressure. *Loathing in the Woes of Ruthlessness: The Chosen One* blends psychological suspense with a deeply personal family story and a speculative look at how modern systems can shape what people believe.
 
 ### Positioning note
 

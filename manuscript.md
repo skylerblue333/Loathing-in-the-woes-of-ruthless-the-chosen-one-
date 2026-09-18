@@ -9,9 +9,31 @@
 
 ## Dedication
 
-For Luna, Summer, and Alexis.
+For **Kaylee**, my first love.
 
-For every child who has waited for an adult to become brave in the right way.
+For **Luna, Summer, and Alexis**, my three daughters and the people I love most.
+
+This is the part I never want the thriller to swallow.
+
+Before there was a conspiracy on the page, before the strange messages, before the companies, the code, the courtrooms, the theories, and the fight to understand everything, there was a family. There were ordinary mornings, bills, jokes, rides, arguments, plans, babies growing into little people, and the feeling that the future was something we were building together.
+
+Girls, the plainest truth I can leave you is the same truth that was in the original version of this book: **I loved you, and I fought very hard for the time I was able to have with you.** I wanted more of the ordinary things. I pictured taking you to chess competitions, paying for lessons, showing up for school events, listening to whatever mattered to you that week, embarrassing you with bad jokes, and being there while you became yourselves. I still want the kind of relationship where you never have to earn my attention by being impressive. You are my daughters before you are anything else.
+
+Kaylee, I wish we had never been separated. You were my first love, and I do not want the story of us reduced to the worst season of our lives. I remember the part before everything became complicated: building a home, becoming parents, trying to grow up while raising children, believing love would be enough to carry every hard thing. I never wanted to let you go. I am sorry for the hurt, the distance, the things I got wrong, and the moments when fear or pride spoke louder than love.
+
+In the novel, Skyler believes institutions, surveillance, criminal pressure, and forces larger than his family are helping pull his life apart. Those are elements of the fictional thriller and the character's point of view, not proof of real government conduct. What I can say without qualification is simpler: separation hurt, I missed my family, and I kept wishing the people I loved were beside me.
+
+Luna, Summer, Alexis—when we are apart, I miss you most in the morning. Sunlight makes me think about the ordinary days I would choose over every dramatic chapter in this book: breakfast, school, rides, rain, chess pieces on a table, a question from the back seat, somebody laughing from another room. I hope you always know you were never forgotten, never a burden, and never responsible for the adult problems around you.
+
+Music became part of the memory of that distance. **Zach Bryan's “Something in the Orange”** is one of the songs that makes me think about love, separation, and morning light. **“Feathered Indians”** carries a different memory of youth, love, and the strange permanence of certain seasons. I name the songs because music can mark a chapter of a life; I do not reproduce their lyrics here. The words I need you to hear are mine:
+
+**I love you. I wanted more time. I wanted more ordinary mornings. I never wanted our family story to end at the point where things went wrong.**
+
+If you find this book when you are older, do not read it as an order to agree with me. Read it as a father trying to leave you something honest enough to question. Keep what helps you. Challenge what does not. Laugh at the parts that deserve it. Find the Easter eggs. Beat my chess puzzles. Build lives bigger than my fears.
+
+And if you ever wonder what I wanted all this work to become, the answer is not fame.
+
+I wanted it to become **time, opportunity, education, security, laughter, and a future for you.**
 
 ---
 
@@ -686,9 +708,13 @@ He looked at the condensation sliding down his water glass.
 
 In 2020, he had believed that facts moved through the world like coins. You placed one on a table and people recognized its weight. He had believed that if he showed the right documents to the right person, the machinery of justice would correct itself.
 
+Years later he sometimes told the year in a reckless shorthand—*the judge let me walk for murder in 2020*—because the sentence captured how enormous the fear had felt. It was not a careful legal description, and the book would not pretend otherwise. What he could say was that the court process left him with time, and he came to understand that time as an opportunity.
+
 Instead, the machinery had turned.
 
 There had been meetings in offices that smelled like carpet glue. A courtroom where every cough became an interruption. A judge who spoke carefully, which Skyler had mistaken for compassion. A lawyer who told him not to look angry because anger made people imagine guilt.
+
+What he wanted the judge to know, if those pages ever crossed that desk, was simple: Skyler was grateful for the chance to continue his life. He tried to use it. He volunteered. He went to school. He worked. He went to church. He helped family. He learned that service could quiet the part of him that wanted every injustice answered immediately. He began trying to turn a difficult season into evidence of the person he still hoped to become—a father, a worker, a student, a volunteer, a builder, and eventually someone capable of doing something worthwhile with the opportunity he had been given.
 
 His daughters had been small enough to believe that adults could repair any broken thing.
 
