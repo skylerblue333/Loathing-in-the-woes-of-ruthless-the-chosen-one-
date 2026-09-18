@@ -874,7 +874,7 @@ After mistakes.
 
 That is why the chess knight belongs to Luna, the rain belongs to Summer, the seashell belongs to Alexis, and the orange morning light belongs to all three of you.
 
-That is why I imagined working extra days digging plants to buy a ridiculous self-moving chessboard for Christmas. Not because I needed one of you to become a chess champion. I pictured a six-year-old seeing the pieces move like movie magic, getting curious, sitting down for one game, then maybe bringing her sisters to the table. I hoped the board might survive long enough for the younger girls to inherit their turns.
+That is why I imagined working extra days digging plants to buy a ridiculous self-moving chessboard for Christmas 2026. 1300 us dollar Not because I needed one of you to become a chess champion. I pictured a six-year-old seeing the pieces move on their own like movie magic, getting curious, sitting down for one game, then maybe bringing her sisters to the table later. I hoped the board might survive long enough for the younger girls to inherit their turns.
 
 The electronics were never the important part.
 
@@ -948,7 +948,7 @@ At least I think I was. A little mischievous, wanting to belong, and wanting to 
 
 That sentence matters more than it appears to.
 
-I grew up around ordinary work. Dirt. Plants. Long days. People trying to make enough money to keep going. Somewhere in those early years I learned something that later became both one of my greatest strengths and one of my worst habits:
+I grew up around ordinary work. Dirt. Plants. Long days. People trying to make enough money to keep going. some people had more money then they knew what to do with. Somewhere in those early years I learned something that later became both one of my greatest strengths and one of my worst habits:
 
 **If something is broken, I want to figure out why.**
 
