@@ -42,6 +42,7 @@ I did not understand how valuable ordinary was while I was living inside it.
 I do now.
 
 boy do I know the value of the time I was given , thank God .
+
 If I could choose between one more dramatic answer to every mystery in this book or one more completely unremarkable day with the people I loved, I would choose the ordinary day.
 
 I would choose homework.
@@ -54,13 +55,16 @@ I would choose a volunteer shift at the shelter.
 
 I would choose a stupid dad joke nobody laughed at.
 
-I would choose a chessboard left sitting on the table.
+hell I would laugh and love my enemies jokes by now
 
-I would choose one of my daughters asking me a question while I was distracted by something I would eventually realize did not matter nearly as much as she did.
+
+I would choose a chessboard left sitting on the table not just a Bible.
+
+I would choose one of my daughters asking me a question while I was distracted by school and I would eventually realize school and work did not matter nearly as much as she did.
 
 Those were not the boring parts.
 
-**Those were the treasure.**
+**Those were the best parts and treasure.**
 
 Girls, the simplest truth I can leave you is the truth I kept trying to say even when I said everything else badly:
 
@@ -110,19 +114,27 @@ And if life ever made you feel like you had to perform for love, I hope you reme
 
 Kaylee, I wish we had never been separated.
 
-You were my first love, and I refuse to let the ending become the only part of our story that survives.
+You were my first love, and I refuse to let the ending become the only part of our story that survives. one day I'll write out true full love story.
 
 We did not build a house.
 
 **We bought one.**
+but I wish we got to get old together and build a house with a wrap around porch. 
 
-And for a while, that house held the future I thought I was going to grow old inside.
+And for a while, that house held the future I thought I was going to grow old inside slowly.
 
 We became parents together. We were young people learning adulthood while already responsible for children, a house, work, family, and each other. We were tired sometimes. Stubborn sometimes. Hopeful sometimes. Scared sometimes. We got things right and we got things wrong. But there was a time when I believed we had years to figure all of it out.
 
 I believed the hard seasons would pass.
 
 I believed arguments would become old stories.
+
+I never imagined we be where we are and so distant but my love is still strong.
+
+I got scared and was targeted and had to break up with your mom they wanted.
+
+but they wanted my life just as much too. they wouldn't, look it doesn't matter..
+
 
 I believed holidays would get louder as the girls got older.
 
