@@ -21,22 +21,27 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For **Kaylee**, my first love.
+For **Kaylee**, my first love best friend and person that was there for me the most.
 
 For **Luna, Summer, and Alexis**, my three daughters and the people I love most.
 
-This is the part I never want the thriller to swallow.
+This is the part I never want the thriller to outshine what I truly want to say 
 
 Before the glitch, before the courtrooms, before the strange messages, before the algorithms, before the code became both an escape and a mission, there was something much simpler:
 
 There was us.
 
-Kaylee and I were young and trying to figure out adulthood while already building a family. We **bought a house** and tried to make it ours. Not some perfect movie version of a family—an actual one. There were mornings under the same roof, babies becoming little girls, toys where somebody was going to step on them, laundry that never seemed finished, work schedules, bills on the table, meals, church mornings, birthdays, holidays, tired nights, inside jokes, stupid arguments, apologies, plans, worries, laughter, and the quiet assumption that there would always be another ordinary day after this one.
+Kaylee and I were young and trying to figure out adulthood while already building a family. We got a apartment first but then **bought a house** and tried to make it ours. we were not some perfect movie version of a family—an but actual one.
+
+There were mornings under the same roof, babies becoming little girls, toys where somebody was going to step on them, laundry that never seemed finished lol, work schedules, school, bills on the table, meals, church mornings, birthdays, holidays, tired nights, inside jokes, stupid arguments, apologies, plans, worries, laughter, and the quiet assumption that there would always be another ordinary day after this one.
+
+I regret not taking time off work to go on more vacations and have family time.
 
 I did not understand how valuable ordinary was while I was living inside it.
 
 I do now.
 
+boy do I know the value of the time I was given , thank God .
 If I could choose between one more dramatic answer to every mystery in this book or one more completely unremarkable day with the people I loved, I would choose the ordinary day.
 
 I would choose homework.
