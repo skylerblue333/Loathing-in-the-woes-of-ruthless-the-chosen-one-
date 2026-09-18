@@ -21,9 +21,49 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For Luna, Summer, and Alexis.
+For **Kaylle**, and for Luna, Summer, and Alexis.
 
-For every child who has waited for an adult to become brave in the right way.
+For the children who deserve to know that they were loved before the words were perfect, during the distance, and after every mistake. For the people who stayed in my heart when life became too complicated to explain in one conversation.
+
+Some songs became part of the weather of our family story. **“Something in the Orange”** carries the ache of distance and the hope that morning can still find us. **“Feathered Indians”** belongs here as a reminder that memory can be tender, complicated, and unfinished. These titles are signposts, not a soundtrack to anyone else’s life. The words that matter most are mine:
+
+> I love you. I missed you. I never stopped carrying you with me.
+
+This book is not asking you to defend me or agree with every choice I made. It is a letter made out of scenes, questions, failures, work, faith, and hope. I want you to find it when you are old enough to read it as your own story too—not as a burden, but as proof that a person can use a difficult season to become more honest, more useful, and more loving.
+
+## Before the Glitch
+
+If you found this book years from now, you may be looking for the part that belongs only to you. Start here.
+
+Before the phone, before the code, before the companies and the accusations and the stories other people tried to tell about me, I was a boy who wanted to belong and wanted to stand for something. I was curious, sometimes mischievous, and often too certain that if I understood a problem deeply enough I could solve it without hurting anyone along the way. I learned later that good intentions do not remove consequences. They only give you a responsibility to face them.
+
+I grew up around ordinary work: dirt, plants, long days, tired people, and the quiet mathematics of making enough money to keep going. There was work around Black Diamond Nursery. There was school, DECA, charity work, the Make-A-Wish community, church, first love, heartbreak, mistakes, and the lessons that only arrive after a person has stopped pretending they already know everything.
+
+Those years taught me to notice what needed doing. Water the plants. Carry the boxes. Answer the question. Show up when someone is waiting. Finish the assignment. Apologize when the apology is owed. Try again when the first attempt fails.
+
+Technology gave that instinct a new language. I discovered that a blank screen could become something that had not existed five minutes earlier. I studied information technology and software development. I learned about leadership, manufacturing, team work, and the discipline of building something that other people would have to rely on. School was not a decorative line in my history. It was one of the ways I kept choosing a future when the past was loud.
+
+Work taught me a different kind of intelligence. A plan had to survive a long shift, a broken process, an unexpected bill, a tired team, and the human being standing in front of you who needed patience more than a lecture. I learned that a good idea was not enough. It had to be useful. It had to be maintained. It had to leave someone safer than it found them.
+
+Volunteering made that lesson personal. At Hope Campus, homelessness was not an abstract argument. It was a person waiting for a meal, a form, a phone call, a place to sit, or someone willing to learn their name. Charity work and community service taught me that dignity is often delivered through small acts repeated without applause. Church gave me a place to practice humility, even when I did not always practice it well. Faith, at its best, did not make me feel superior. It asked me to become responsible for what I did with the time I had been given.
+
+Then I became a father.
+
+Luna. Summer. Alexis.
+
+Three daughters who made every grand theory about success answer to simpler questions: Did you show up? Did we know you loved us? Did you make us laugh? Did you keep trying to make the world safer? Did you remember that we were people and not proof of anything?
+
+My children became the measure beneath every other measure. I imagined chess competitions, lessons, school events, rainy afternoons, shells held to ears, grocery-store jokes, and the ordinary work of being present. I did not always get presence right. I made mistakes. I let fear and pride speak too loudly. I loved people and relationships that became tangled. A love story that once felt like a home became part of the wreckage I had to understand without turning another person into a villain for the convenience of my memory.
+
+In 2020, during a difficult legal and family season, I was given time that I could have spent only resenting the world. Instead, I tried to use it. I volunteered. I returned to school. I worked. I helped family. I went to church. I learned to accept a schedule made of humble tasks and to be grateful for the chance to do something constructive with a day.
+
+That time did not make me perfect, and it did not erase what had happened. It gave me an opportunity. I hope the person who gave me that opportunity can see that I tried to honor it. I tried to become a good man by doing good work, serving people, learning what I did not know, and building toward something greater than the worst sentence anyone could say about me.
+
+If you read the thriller that follows, you will see a man tempted to explain every wound as part of a hidden design. You will see him frightened, angry, stubborn, and sometimes wrong. You will also see him choose a better use for his mind. The story is fictional. The love at its center is the part I want you to recognize.
+
+I never wanted to let you go. I still love all of you. I miss you in the morning, especially when I see the sun and remember how many ordinary mornings a family can hold. If distance has made some things difficult to say, let this book say them plainly:
+
+**You were never forgotten. You were never loved conditionally. You were always worth becoming better for.**
 
 ---
 

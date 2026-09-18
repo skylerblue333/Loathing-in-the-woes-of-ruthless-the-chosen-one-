@@ -68,7 +68,7 @@ Amazon category availability changes. Select the closest current categories in t
 |---|---|
 | Title page | Included in `manuscript_for_publication.md` |
 | Copyright page | Included; confirm legal name and year before upload |
-| Dedication | Included; confirm names and privacy preferences |
+| Dedication and “Before the Glitch” family introduction | Restored and expanded; confirm names and privacy preferences |
 | Content note | Included |
 | Author’s note | Included with fictional framing |
 | Contents | Included; verify final conversion links |
