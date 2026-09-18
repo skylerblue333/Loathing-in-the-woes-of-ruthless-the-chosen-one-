@@ -413,6 +413,25 @@ And if you remember only one thing from all these pages, let it be this:
 
 ---
 
+## The First Word I Never Want to Forget
+
+There is one family memory I want written down plainly:
+
+**All three of your first words were “Dad.”**
+
+Luna, Summer, and Alexis—each of you gave me that word first.
+
+I am more grateful for that than I know how to explain.
+
+Before you knew anything about my work, my failures, my dreams, or the complicated parts of my story, you knew me simply as Dad.
+
+If these pages find you years from now, please remember me with love—but keep living your own lives fully. I never want my memory to become a weight around your future.
+
+Just keep a little room somewhere for the dad who was ridiculously proud that your first word was his name, and who loved you long before you could say it.
+
+
+---
+
 ## For Luna
 
 Luna,
