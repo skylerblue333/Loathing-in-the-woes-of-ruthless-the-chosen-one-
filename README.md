@@ -49,6 +49,7 @@ The family layer is intentionally stronger: Hope Campus and practical service, e
 The approximately 132,000-word publication manuscript remains the canonical long-form source. This repository is **ready for professional copyedit and KDP layout preparation**, not a guarantee of bestseller status or a substitute for the final proofing/formatting steps Amazon requires.
 
 
+- **Christmas self-moving chessboard:** Skyler's idea of working two or three days digging plants to afford a roughly $1,300 board whose pieces move like movie magic, hoping it sparks one daughter's curiosity, brings the sisters to the same table, and survives long enough for Alexis to inherit a turn. The meaning is shared time, not pressure to become a champion.
 ## September 18, 2026 final family Easter-egg pass
 
 The final family pass moves Luna, Summer, and Alexis further into the actual story rather than leaving their importance only in the dedication. Chapter Twenty-Three and the epilogue now carry a consistent set of legacy motifs: Luna/chess, Summer/rain, Alexis/seashell, orange morning light for all three, and the code-style Easter egg `PROUD_BEFORE_PROOF = true`.
