@@ -369,6 +369,8 @@ Skyler rejects both the role of obedient victim and the role of righteous hacker
 
 **End beat:** A new anonymous message arrives: **THE NETWORK IS GONE. THE PAWNS REMAIN.** Skyler deletes the message without opening the attachment.
 
+**Christmas chess-table beat:** The family legacy thread also preserves Skyler's idea of working two or three days digging plants to buy a self-moving chess set for Christmas. He hopes the moving pieces make a six-year-old curious, that her sisters eventually join, that Kaylee helps preserve it, and that Alexis can inherit a turn later. The point is shared table time, not performance.
+
 ## Epilogue — What Remains
 
 **Time:** Six months later.
