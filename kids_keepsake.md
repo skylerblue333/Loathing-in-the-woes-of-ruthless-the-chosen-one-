@@ -116,6 +116,38 @@ If you find another one, claim it. Family lore is allowed to evolve.
 
 ---
 
+## Proud Before Proof
+
+If you find the phrase **PROUD BEFORE PROOF** in this book, in code, in a note, or buried somewhere in one of my projects, it is for the three of you.
+
+It means I was proud of you before a report card told me anything, before a trophy, before a degree, before a job title, before money, before anybody online knew your name, and before you had anything to prove.
+
+**Luna:** the chess knight means I believe in your mind and your choices. You do not have to see the whole board to make a good next move.
+
+**Summer:** the rain means I believe in your ability to grow through changing seasons. A storm is something you experience, not your identity.
+
+**Alexis:** the seashell means I believe in the quiet things you notice. Small things can hold enormous memories.
+
+**For all three of you:** orange morning light means I would choose another ordinary morning with you over any dramatic answer in this book.
+
+And the line hidden in the code—
+
+`PROUD_BEFORE_PROOF = true`
+
+—means the condition never changes.
+
+You can succeed and I am proud of you.
+
+You can fail and I am proud of you.
+
+You can choose a life completely different from the one I imagined and I am proud of you.
+
+You can disagree with me and I am proud of you.
+
+You never have to become impressive enough to deserve being loved by your dad.
+
+---
+
 ## Open This When...
 
 ### You think you disappointed me
