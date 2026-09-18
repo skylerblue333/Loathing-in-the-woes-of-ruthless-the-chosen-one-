@@ -91,6 +91,8 @@ The phrase **proud before proof** may recur subtly in code comments, notes, file
 
 At least one scene in Chapter Twenty-Three and one beat in the epilogue should carry these motifs so the family thread remains inside the story rather than existing only in front matter.
 
+The Christmas self-moving chessboard is a secondary family motif: Skyler imagines working two or three days digging plants to afford an expensive board whose pieces move like movie magic. The goal is curiosity, shared time, and a family object the sisters can inherit—not pressure to become a chess champion.
+
 ## Narrative Rules
 
 The primary narrative uses close third person centered on Skyler. First-person inserts appear as Truth Protocol entries, audio transcripts, private notes, and memories. These inserts should not be used to confirm every suspicion. They should reveal Skyler’s emotional truth and the evolution of his reasoning.
