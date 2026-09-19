@@ -21,11 +21,11 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 ## Dedication
 
-For **Kaylee**, because before this story became complicated, we were young, we loved each other, and we built a family.
+For **Kaylee**, because before this story became complicated, we were young, we loved each other, and we built a family. thank you.
 
 For **Luna Avigail, Alexis Isabella-Jane, and Summer Skye**, because every page after this one matters less than the fact that I got to be your dad.
 
-And with gratitude to the **judge whose decision gave me more time with my children**.
+And with gratitude to the **judge who they said whose decision gave me more time with my children**.
 
 This book contains fear, ambition, mistakes, technology, courtrooms, strange coincidences, grief, humor, and questions that do not always resolve cleanly.
 
@@ -33,7 +33,9 @@ This page does.
 
 **I loved my family. I was grateful for the ordinary years. I wanted more of them.**
 
-That is the truth I want at the front, where nobody has to search for it.
+I didn't know how valuable that time was when I was in it. I regret working so much, holding on to things, not taking off work for more vacations or family time.
+
+That is the truth I want at the front, where nobody has to search for it. a letter a dedication. and love you can find just in case.
 
 ---
 
@@ -99,9 +101,9 @@ And, to three girls, simply:
 
 Kaylee,
 
-We started young enough to believe there would always be more time.
+We started young enough to believe there would always be more time. or I did. 
 
-First there was an apartment. Then there was a house we bought and tried to make ours. Then there were children, schedules, bills, work, school, church mornings, birthdays, holidays, tired nights, private jokes, disagreements, apologies, and all the ordinary machinery of building a family before either of us had fully figured out who we were.
+First there was an apartment. Then there was a house we bought and tried to make ours. I miss your mom too. I love y'all forever ♾️ Then there were children, schedules, bills, work, school, church mornings, birthdays, holidays, tired nights, private jokes, disagreements, apologies, and all the ordinary machinery of building a family before either of us had fully figured out who we were.
 
 For a long time, I thought the biggest moments were the ones worth remembering.
 
@@ -141,6 +143,8 @@ You are not the villain of my story.
 
 I am not the hero of yours.
 
+I'll write our full love story one day truthfully. 
+
 We were two people who loved each other, hurt each other, changed, and became the parents of three girls who deserve a history larger than anybody's bitterness.
 
 Whatever happened between us later, I will always be grateful for the part of our life that became a family.
@@ -173,11 +177,14 @@ I am grateful they happened at all.
 
 Luna,
 
-You are the **knight** in the family Easter eggs.
+You are the **knight** in the family for a Easter egg.
+also with major queen energy. 
 
-There is a reason I chose that piece.
+There is a reason I chose those pieces 
 
 A knight reaches places no other chess piece can reach because it refuses to move the way everything around it moves.
+
+you are also a queen that can move and accomplish what other can not. 
 
 That does not mean I want you to be difficult just for the sake of being different.
 
@@ -201,7 +208,7 @@ You are allowed to lose a game without believing you are a loser.
 
 You are allowed to win without becoming cruel.
 
-I wanted to teach you chess because I loved the idea of sharing something with you. That ridiculous self-moving Christmas chessboard was never really about producing a chess champion.
+I wanted to teach you chess because I loved the idea of sharing something with you. That ridiculous self-moving Christmas chessboard I will buy 2026 was never really about producing a chess champion.
 
 I imagined you watching a knight glide across the board by itself and thinking, for one second, *that's magic.*
 
@@ -217,7 +224,7 @@ Maybe you would hate chess after two games and spend the rest of your life makin
 
 Any of those endings would have been fine.
 
-**The board was never the point. The time together was.**
+**The board was never the point. The time together was and gift was.**
 
 There will be moments in your life when people sound certain about you.
 
