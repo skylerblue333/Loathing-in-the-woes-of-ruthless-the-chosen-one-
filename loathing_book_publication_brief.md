@@ -5,7 +5,7 @@
 
 **Format:** Original full-length novel manuscript prepared in clean Markdown for editorial control, followed by conversion into a reflowable eBook and a 6 × 9 inch paperback interior.
 
-**Current length:** Approximately 132,000 words across a prologue, interlude, twenty-four chapters, and an epilogue.
+**Current length:** Approximately 102,000 words across a prologue, interlude, twenty-four chapters, an epilogue, and a compact Family Legacy Appendix.
 
 **Genre positioning:** Literary psychological techno-thriller with speculative crime, cyberwar suspense, organized-crime atmosphere, and an emotionally grounded family drama.
 
@@ -25,17 +25,17 @@
 
 | Component | Status | Purpose |
 |---|---|---|
-| Full-length manuscript | Complete draft | `manuscript_for_publication.md` |
-| Family keepsake | Expanded family edition | `kids_keepsake.md` |
+| Full-length manuscript | Editorial edition complete | `manuscript_for_publication.md` |
+| Family keepsake | Polished and synchronized | `kids_keepsake.md` |
 | Amazon metadata package | Updated | `amazon_package.md` |
-| README | Updated | Project status and publication instructions |
+| README | Synchronized canonical text | Full publication manuscript |
 | Novel bible | Complete | Internal continuity reference |
 | Plotline timeline | Complete | Internal continuity reference |
 | Cover assets | Existing assets | Review typography, trim, bleed, spine, and barcode requirements |
 
 ## Remaining production steps
 
-Complete a professional copyedit and proofread. Confirm the final author name, copyright holder, dedication names, and privacy choices. Convert the Markdown master into a reflowable Kindle file and a 6 × 9 inch paperback interior. Verify the linked contents after conversion, order a print proof, and review the final cover against the selected trim size and printing specifications.
+Run a final human proofread on the rendered Kindle/paperback files. Confirm the final author name, copyright holder, dedication names, and privacy choices. Convert the Markdown master into a reflowable Kindle file and a 6 × 9 inch paperback interior. Verify the linked contents after conversion, order a print proof, and review the final cover against the selected trim size and printing specifications.
 
 The default presentation is an original work of fiction inspired by themes of surveillance, institutional uncertainty, family separation, digital manipulation, moral repair, and hope.
 
