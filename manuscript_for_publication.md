@@ -596,625 +596,772 @@ The reason he wanted to survive had not.
 ## Chapter One
 ### The Phone
 
-At 6:12 on Monday morning, Skyler Blue woke certain somebody was standing in his doorway.
+At 6:12 Monday morning, Skyler Blue woke certain somebody was standing in his doorway.
 
-He opened his eyes.
+His eyes opened before the rest of him moved.
 
-Nobody.
+Gray wall. Shirt over the chair. Door open three inches, exactly where he had left it.
 
-The certainty stayed.
+Nobody there.
 
-Gray walls. Unmade bed. A shirt over the chair. The door open three inches, exactly where he had left it. Nothing moved.
+The certainty remained.
 
-He listened.
+He listened until the room separated into ordinary sounds: air conditioner, refrigerator, a truck changing gears three streets away. No footsteps. No breathing except his own.
 
-No footsteps.
+On the floor beside the bed, his phone lay facedown.
 
-No broken latch.
-
-No breath except his own.
-
-On the floor beside the bed, his phone lay facedown with a crack running from corner to corner. He had thrown it against the wall at 3:21.
+He had thrown it at the wall at 3:21.
 
 The wall had won.
 
-He picked it up.
+A crack ran corner to corner through the glass. When he picked it up, the screen showed nothing unusual. Weather. Battery. Messages from people with names. Apps behaving like apps.
 
-Nothing.
+No impossible song.
 
-No song. No impossible notification. No evidence that the night had happened at all. Just the ordinary grid of icons waiting to sell him weather, work, friendship, fear, groceries, and the morning.
+No white notification field.
 
-Stress dream, he told himself.
+No words about Thorne or the drop.
 
-That explanation almost worked.
+For ten seconds he almost believed the night had been a stress dream.
 
-Then he remembered the voice using a sentence he had never posted.
+Then he remembered the voice using a sentence from a notebook he had never posted anywhere.
 
-In the kitchen, the coffee machine flashed CLEAN ME.
+He set the phone on the dresser.
 
-Skyler pressed BREW instead.
+In the kitchen the coffee maker flashed CLEAN ME.
 
-The machine coughed, shuddered, and produced something brown enough to qualify by color.
+“Get in line,” he said.
 
-He drank it standing up.
+He pressed BREW.
 
-His mother had once told him that a person could learn everything important about a day from the first ten minutes. Whether the coffee was good. Whether the people in the house were speaking. Whether the body felt like an instrument or a warning.
+The machine coughed out something brown enough to qualify by color.
 
-Skyler’s body felt like a warning.
+His first mistake that morning was checking the phone again.
 
-He opened the phone again. The first advertisement was for a dark-blue sedan.
+The first advertisement showed a dark-blue sedan.
 
-He almost scrolled past it.
+Same make. Same model. Same color as the car he had driven in 2020, before the hearings and custody arguments, before the year that split his life into before and after.
 
-The car was the same model and color he had driven in 2020, before the hearings, before the custody dispute, before the year that divided his life into a before and an after. He had sold the car for rent money. The buyer had been a stranger with a red cap and a wedding ring. Skyler remembered the ring because he had stared at it while handing over the keys, wondering what kind of man could sell a car without looking back.
-
-The advertisement showed a dark-blue sedan parked beneath a blank sky.
+The ad carried two words:
 
 MOVE FORWARD.
 
-Skyler locked the phone.
+Skyler locked the screen.
 
-He unlocked it again.
+Unlocked it.
 
-The advertisement was gone.
+The car was gone.
 
-In its place: a photograph of a family at a beach. Three girls. One father. No faces visible.
+A family stood on a beach now: one father, three girls, all photographed from behind.
 
-His hand tightened around the device until the fracture in the glass widened by a thread.
+His thumb went still.
 
-The oldest girl in the photograph wore a yellow sweatshirt. Luna liked yellow and the clean geometry of pawns and knights. Summer counted raindrops against windows like beads on a string. Alexis had once carried a cheap souvenir compass upside down for half an afternoon and announced, with complete seriousness, that north was broken.
+Three girls did not mean his girls.
 
-He closed the screen.
+Dark-blue sedans did not belong to him.
 
-The kitchen window reflected him back: unshaved, thirty-six, shoulders drawn forward as though the future had become a weather system moving against him.
+Advertisements were not letters from the universe.
 
-“Stop,” he said.
+He knew how targeting worked. He knew how much ordinary data could feel like intimacy after enough companies stitched it together.
 
-The reflection did not answer.
+Knowing that did not slow his pulse.
 
-On the drive across town, a church marquee on Fourth read FATHERS, DO NOT PROVOKE YOUR CHILDREN. The week before, the sign had said BAPTISMS THIS SUNDAY. The week before that, COMMUNITY MEAL—ALL WELCOME. He had stood in that fellowship hall in 2020, ladling stew next to his mother, his hands remembering the rhythm of useful work. He had taken classes he should have taken long before, two nights a week in a community-college lab that smelled like chalk and printer ink. He had returned to the shelter where Aegis had been born in ambition and urgency, fixing printers, cleaning rooms, nodding yes when someone needed a ride home. When he told the men in his support group he was there because he was being punished, one of them had said, Or because you’re finally free to show your daughters who you are.
+He set the phone facedown and finished the coffee.
 
-He remembered it now and almost laughed. Freedom.
+The kitchen window reflected a man who looked as if he had slept inside an argument.
 
-At 7:03, he parked under a maple in front of the community technology center where he’d been contracting. The center occupied the ground floor of a converted bank. Its old vault had become a server room, although the servers were modest and the door no longer locked properly.
+“Boring explanations first,” he told the reflection.
 
-The building smelled of dust, printer toner, and the industrial soap used by the cleaning crew. A cardboard sign near reception read CONSENT IS A FEATURE, NOT A SETTING.
+That had once been an engineering habit.
 
-Skyler had written the sentence.
+Recently it had become a prayer.
 
-He had also forgotten that he had written it.
+---
 
-“Morning,” said Caleb.
+The community technology center occupied the ground floor of an old bank. The vault had become a server room. The marble teller counter held donated laptops. A handwritten sign beside reception read:
 
-Caleb was twenty-nine, broad-shouldered, relentlessly cheerful, and incapable of entering a room without carrying food. This morning he carried a paper bag marked with the logo of a bakery that had closed two years earlier.
+CONSENT IS A FEATURE, NOT A SETTING.
 
-“Where did you get that?” Skyler asked.
+Skyler had written that line months ago.
 
-“Get what?”
+He had forgotten until he saw it.
 
-“The bag.”
+“Morning,” Caleb called.
 
-Caleb looked down. “The bag? It was on my desk.”
+Caleb arrived carrying food the way some people arrived carrying opinions. Today it was a paper bag with a red four-square logo.
 
-Skyler stared at it.
+Skyler stopped.
 
-The bakery had been called Four Corners. The logo showed a red square divided into four smaller squares. Skyler had once used it as a placeholder image during the Aegis prototype. He had deleted it after a designer told him that no one wanted an identity system that looked like a warning label.
+“Where did you get that?”
 
-Caleb opened the bag. “You want a cinnamon roll?”
+Caleb looked down. “A bag?”
+
+“The logo.”
+
+“Desk drawer, I think.”
+
+Four Corners Bakery had closed two years earlier. Skyler had once used its logo as placeholder art in an early Aegis mockup, then deleted it because the four divided squares made an identity platform look like a warning label.
+
+Caleb opened the bag.
+
+“Cinnamon roll?”
 
 “No.”
 
-“You look like you need one.”
+“You look like a yes.”
 
 “I’m fine.”
 
-Caleb studied him. “That’s the face people make right before they say they’re fine.”
+“That face is never fine.”
 
 Skyler walked past him.
 
-On his monitor, a message waited in the contract portal.
+On his workstation, a message waited in the contract portal.
 
-ACCESS REVIEW PENDING. DO NOT DISCUSS.
+ACCESS REVIEW PENDING.
 
-The message had no sender. When he clicked the details panel, the portal returned an error. He refreshed. The message vanished.
+Underneath:
 
-Caleb’s voice came from behind him. “Bad news?”
+DO NOT DISCUSS.
 
-“Probably a glitch.”
+No sender. No ticket number.
 
-“Everything’s a glitch if you stare at it long enough.”
+He opened the details pane.
 
-“That’s not how glitches work.”
+Error.
 
-“No? You wrote the software.”
+He refreshed.
 
-“I write software. I don’t write reality.”
+The notice disappeared.
 
-Caleb grinned, but the grin ended too quickly. He was already absorbed in some fight with the communal printer.
+Skyler stared at the clean screen.
 
-Skyler sat down and opened the audit logs. The portal showed nothing unusual. No unauthorized login. No strange device. No failed authentication. The system was clean in the way a room could be clean after someone had taken the furniture.
+A clean system could mean nothing happened.
 
-He built himself a list in the old way. Times. Names. Actions. It felt like bringing order to a room where multiple people had left in a hurry—each chair at an angle, one drawer open, two cups stacked in a corner. He typed slowly at first. Then faster.
+A clean system could also mean somebody cleaned it.
 
-At 10:11, the dark-blue sedan advertisement reappeared in the corner of a feed that should not have known his search history. He told himself the ad network had followed him from a news site. He told himself that people who saw significance in ads were the sort who believed weather was coded messages.
+That second thought arrived too quickly.
 
-At 10:14, an article slid into the recommendation column about a father who had lost access to his children after a public accusation. The article was three years old, anonymized, and written in a tone that was meant to be compassionate and came across like lab notes.
+He wrote both possibilities down.
 
-At 10:18, a song began playing through the center’s communal speaker. The center did not usually play music. Skyler did not recognize the artist, but the first verse contained the phrase the judge spared your life and he felt his neck heat with the involuntary alert of recognition. It had not been the judge, not exactly; it had been the paperwork, the process, the suffocating ordinary.
+Time. Device. Exact wording. What he observed. What he inferred.
 
-His chair scraped backward.
+At the top of the note he typed:
 
-Caleb looked up from the printer. There was toner on his fingers. “What?”
+FACT / INTERPRETATION / UNKNOWN
 
-“Who selected that?”
+Then he moved the message itself into UNKNOWN.
 
-“What?”
+That felt better.
 
-“The song.”
+Not safe.
 
-Caleb listened. “It’s a playlist.”
+Better.
 
-“Who made the playlist?”
+At 10:18, music began through the center’s communal speaker.
 
-“Probably the center.”
+The center did not usually play music.
 
-“Which center?”
+A low beat. A voice he did not recognize. Then a line about a father, a locked door, and a judge.
 
-Caleb’s expression changed. The cheerful face folded inward, not into fear exactly, but into the cautious attention people use around a dog that might bite. “Hey. It’s just music.”
+Skyler’s chair moved backward before he decided to stand.
 
-The song continued.
-
-They can put a number on a name, put a lock on a door, make a father beg the floor for what he had before—
-
-Skyler crossed the room and pulled the speaker’s power cable from the wall.
-
-The song continued for four more seconds.
-
-Then it stopped.
-
-Nobody moved.
-
-“Okay,” Caleb said. “That was weird.”
-
-“Did you hear the words?”
-
-“I heard a song.”
-
-“The words.”
-
-“Skyler.”
+Caleb looked up from the printer.
 
 “What?”
 
-“You need to sit down. Or—” Caleb lifted his hands in a little shrug. “Or make the coffee machine say something nice to you. Because, man, your face.”
+“Who put this on?”
 
-He wanted to tell him that sitting down was what people did when they accepted a situation they had not yet understood. He wanted to tell him that every system left a trace, that every action had a source, that nothing could appear from nowhere.
+Caleb listened. “Playlist?”
 
-Instead, he sat. The glass on his phone caught the linear light from the fluorescent tubes and split it.
+“We don’t have a playlist.”
 
-The phone buzzed. He flipped it over like he was turning over a beetle.
+“Apparently we do.”
 
-An unknown number: YOU FINALLY NOTICED.
+The next line landed close enough to an old memory that Skyler felt heat rise under his collar.
 
-His thumb hovered. He did not answer. He took a screenshot, then another, the habit of a man who had built a life around proof when belief had failed to save him.
+He crossed the room and pulled the speaker plug.
 
-Two minutes later: DON’T TRUST THE PEOPLE HELPING YOU.
+The music continued.
 
-He took another screenshot. He opened the message info panel, then closed it, unable to look at the empty lines where a name should have been.
+One second.
 
-Caleb leaned on the top of Skyler’s chair as if proximity could ground the day. “Weird spam. You want me to put your number on whatever do-not-bother list Lena told us about?”
+Two.
 
-Skyler swallowed. “If this is spam, it has good timing.”
+Three.
 
-Caleb wiggled the bag. “Cinnamon roll timing is the only timing I trust. And your phone’s listening. Everyone’s phone is listening.”
+Then silence.
 
-“Phones don’t—” Skyler stopped. “Phones listen. But not like that.”
+Caleb stopped smiling.
 
-“Sure,” Caleb said, as if they were debating sports. “Not like that.”
+“Battery backup?” he offered.
+
+“Maybe.”
+
+“Bluetooth?”
+
+“Maybe.”
+
+“You keep saying maybe like it insulted your mother.”
+
+Skyler crouched beside the speaker. The backup light was on.
+
+There it was.
+
+A boring explanation.
+
+He almost laughed.
+
+Then his phone vibrated.
+
+Unknown number.
+
+The message read:
+
+YOU SHOULD HAVE GONE TO THE WAREHOUSE.
+
+Skyler did not move.
+
+At 3:17 that morning the phone had mentioned a drop.
+
+He had not known what it meant.
+
+Now there was a warehouse.
+
+He took a screenshot.
+
+Then a second screenshot that included the clock on the wall.
+
+Caleb leaned over the chair.
+
+“Spam?”
+
+“Maybe.”
+
+“Good. We like maybe again.”
+
+Skyler opened the message details.
+
+Nothing useful.
+
+He did not reply.
+
+That was new.
+
+Six months earlier he would have answered immediately, because unanswered questions felt like unlocked doors.
+
+He put the phone down instead.
 
 At noon, he called Lena Ortiz.
 
 She answered on the sixth ring.
 
-“You’re alive,” she said.
+“You’re alive.”
 
-“Were you expecting me not to be?”
+“Was that in doubt?”
 
-“I was expecting you to send me another eleven-page message at three in the morning.”
+“You sent me eleven attachments at three in the morning.”
 
-“I sent three pages.”
+“Three pages. Eleven attachments.”
 
-“You sent three pages and eleven attachments.”
+“That distinction is why I worry about you.”
 
-“Did you open them?”
+Traffic hissed behind her voice.
 
-“I opened the first two. One was a photo of a parking meter.”
+Skyler looked at the phone lying on his desk like evidence waiting to testify.
 
-“It was relevant.”
+“Something happened last night.”
 
-“To what?”
+“What happened?”
 
-“I’m trying to figure that out.”
+He started to tell her what it meant.
 
-Lena exhaled. He could hear traffic on her end, the soft rush of tires on wet pavement. A siren, then silence.
+Stopped.
 
-“Start with what you know,” she said.
+“What I know,” he said, correcting himself, “is that a song played from my phone with a line I recognize from an old notebook. Then messages appeared from an unknown source.”
 
-“My phone is showing me things connected to private events.”
+“Do you still have them?”
 
-“Private how?”
+“Screenshots.”
 
-“Things I didn’t post.”
+“Original messages?”
 
-“That doesn’t mean they were private.”
+He checked.
 
-“I know.”
+Gone.
 
-“Do you?”
+A thin pressure formed behind his eyes.
 
-He looked at the four-cornered bakery bag on Caleb’s desk. The logo’s quarters were not equal. One square was a hair wider than the others. He had made them equal in the mockup because equal suggested stability. He had learned in 2020 that nothing in public life wanted to be equal.
+“No.”
 
-“I know enough to be worried,” he said.
-
-“Worried about what?”
-
-“Someone wants me to think my devices are compromised.”
-
-“That’s different from someone compromising your devices.”
+“Okay. That matters. It doesn’t prove anything by itself.”
 
 “I know.”
 
-“Do you have evidence?”
+“Say the rest.”
 
-“Not yet.”
+He hated that she knew his habits well enough to demand it.
 
-“Then don’t make a public accusation.”
+“It also doesn’t prove nothing happened.”
+
+“Good.”
+
+He told her about the morning ad, the portal notice, the speaker and the warehouse message.
+
+Lena was quiet for a few seconds.
+
+“Do not post any of this.”
 
 “I haven’t.”
 
-“You posted, ‘The feed is a weapon,’ at 2:06 this morning.”
+“You posted ‘the feed is a weapon’ at two oh-six.”
 
-Skyler opened his account. The post was there.
+Skyler opened his social account.
 
-He did not remember writing it.
+The post was there.
 
-Below it were forty-two replies. Some agreed with him. Some called him unstable. One account had posted a photograph of the dark-blue sedan.
+He remembered drafting the sentence days ago.
 
-The caption read: ASK HIM ABOUT THE DROP.
+He did not remember publishing it.
 
-Skyler stopped breathing for a moment. The word fit like a key tried in the wrong lock and catching anyway.
+Below it, replies had multiplied.
 
-“Lena,” he said.
+Some people agreed.
+
+Some mocked him.
+
+One account had posted a photograph of a dark-blue sedan.
+
+Caption:
+
+ASK HIM ABOUT THE DROP.
+
+His stomach tightened.
+
+“Lena.”
 
 “I’m here.”
 
-“There’s a post.”
+“There’s a photo.”
 
-“What kind?”
+“What photo?”
 
 “A car.”
 
-“What about it?”
+“The car?”
 
-“The same car from the advertisement.”
+“The same model.”
 
-“Skyler, the world contains more than one dark-blue sedan.”
+“That is not the same thing.”
 
 “I know.”
 
-“Do you?”
+“Skyler.”
 
-He closed the application.
+“I know.”
 
-“What are you not telling me?” Lena said.
+He enlarged the image.
 
-He watched the reflection of his face in the black-aired circle where the speaker had been. His reflection looked like a witness he would not trust.
+The license plate was unreadable.
 
-“I threw my phone at three twenty-one,” he said. “I thought I heard— It’s nothing.”
+The background could have been almost anywhere.
 
-“Three twenty-one what?”
+He wanted the picture to prove something.
 
-“A.M.”
+That realization scared him more than the picture.
 
-“I would prefer you not to break the tool you use to send me evidence.”
+Lena said, “Here’s what you do. No public accusations. No answering anonymous bait. Preserve originals when you can. Write down exactly what happens before you write down what you think it means.”
 
-“I didn’t break it.”
+He looked at the note already open on his screen.
 
-He had.
+FACT / INTERPRETATION / UNKNOWN.
 
-“Okay,” Lena said. “Do me a favor. No posting today. No responding to bait. If anything changes, write it down and take a photo of the clock. Analog.”
+“I’m doing that.”
 
-“An analog clock.”
+“Good.”
 
-“An analog clock. There’s one in your kitchen. You sent me a photo once of the girls making pancakes under it. The one with the strawberries in the shape of a question mark?”
+“And if the facts start lining up?”
 
-He remembered. Luna had tried to place the berries like a knight’s move and then laughed when Summer said knights didn’t eat strawberries. Alexis had banged a wooden spoon and shouted rain, rain inside. He had felt then, briefly, like a man who belonged to the shape of his house.
+“Then we follow them.”
 
-“All right,” he said. “No posting.”
+“Where?”
 
-“Promise.”
+“To wherever they actually go. Not where fear gets there first.”
 
-“I promise.”
+He leaned back.
 
-“Good. And Skyler—”
+The fluorescent lights hummed overhead.
 
-“What?”
+“Your phone is not an oracle,” Lena said.
 
-“Your phone is not your enemy.”
+“I know.”
 
-He wanted to tell her the phone was a mirror. Mirrors could be enemies.
+“It’s also not automatically your enemy.”
 
-“Okay,” he said, and ended the call before he could argue with a person who had earned the right to be argued with.
+He looked at the crack through the screen.
 
-The rest of the afternoon he did what he told clients to do when they weren’t sure whether a problem was real: he looked for boring explanations first. He pulled power. He restarted systems. He traced logins. He checked if the center’s playlist had ever been connected to the communal account. He found nothing that added up cleanly. Boring explanations hurt worst when they refused to appear. Boring meant human error, and human error he could fix.
+“That one I’m less sure about.”
 
-At 4:05, his mother texted a photo of the church bulletin: COMMUNITY MEAL—CARRY-INS. Beneath it, a line from Sunday’s message: Walk in the rain you’re given. She always sent him the bulletins as if they were weather advisories. He typed back a heart and a promise to stop by. He had meant to stop by last week. He had meant to stop by a lot of places.
+---
 
-By 5:40, the fluorescent hum had deepened into evening.
+The director called him into the old vault at 5:40.
 
-The center director called him into the old vault.
-
-The door stood open. Inside, the server racks blinked green and amber. A portable fan pushed warm air across the room. The director, a narrow man named Paul Dent, held a folder against his chest like a hymnal.
+Paul Dent stood between two server racks holding a folder against his chest.
 
 “Your contract is paused,” Dent said.
 
-“Why?”
+Skyler waited.
 
-“We’re reviewing access.”
+Dent seemed uncomfortable with silence and filled it.
 
-“Why?”
+“Temporary access review.”
 
-“Routine compliance.”
+“For what?”
 
-“Why today?”
+“Compliance.”
 
-Dent glanced toward the servers. “You’ve been accessing archived identity records.”
+“What triggered it?”
 
-“Public records.”
+“I can’t discuss that yet.”
 
-“Some of them are restricted.”
+“You just told me not to discuss a review you can’t discuss.”
 
-“I had permission.”
+Dent rubbed the bridge of his nose.
 
-“From whom?”
+“You’ve accessed archived identity records.”
 
-Skyler’s mind moved through the last week. The shelter database. A donor portal. A case-management archive. The center’s old Aegis compatibility files. He could trace the chain of consent with a pen if someone would give him one.
+“With authorization.”
 
-“Show me the logs,” he said.
+“Some permissions are being re-evaluated.”
 
-“I can’t.”
+“Show me the audit trail.”
 
-“Why not?”
+“I can’t while your access is paused.”
 
-“Because access is paused.”
+The circularity was almost elegant.
 
-The circularity was elegant. Skyler hated it.
+Skyler glanced at the folder.
 
-Dent placed the folder on a rack. “You should take some time.”
+“Is my name in there?”
 
-“Time for what?”
+Dent’s grip tightened slightly.
 
-“To get things in order.”
+That was not proof either.
 
-The phrase landed with the soft weight of a threat.
+Skyler made himself remember that.
 
-Skyler watched Dent leave.
+Dent set the folder on a rack.
 
-A minute later, the server room lights went out.
+“Take tonight. Get things in order.”
 
-The emergency lights came on, red and dim. For a moment the racks disappeared, leaving only rows of blinking points in the darkness. Four green indicators pulsed in the same rhythm, a small synchronized heart in a metal chest.
+“What does that mean?”
 
-His phone buzzed on the metal of the rack. The vibration carried into his wrist.
+“It means go home.”
 
-He did not touch it.
+He left.
 
-It buzzed again. Then again.
+A few seconds later, the main lights died.
 
-He turned the screen toward himself.
+Red emergency strips came on along the floor.
 
-YOU FINALLY NOTICED.
+The server racks remained alive, rows of green and amber LEDs suspended in the dark.
 
-He breathed out.
+Skyler’s phone vibrated against metal.
 
-DON’T TRUST THE PEOPLE HELPING YOU.
+He looked at it without touching it.
 
-He pressed the screenshot combination by muscle memory. The phone made the fake shutter sound that Apple and other companies had kept from cameras none of them made anymore.
+A new message.
 
-The third message was not a variation on the first two.
+THORNE KNOWS YOU SAW THE CAR.
 
-YOU WERE NEVER SUPPOSED TO SEE THE CAR.
+There was the name from 3:17 again.
 
-His chest went tight in the particular way it did when his body decided to preempt thought with a list: exit routes left and right, ventilation grate large enough for a child but not for a man, metal chair that could become a lever, vault door that might or might not close without power.
+Thorne.
 
-A fourth message arrived.
+A person, a handle, a joke, a character invented to make him chase shadows.
 
-THORNE KNOWS ABOUT THE DROP.
+He typed a reply but did not send it.
 
-Skyler typed: Who is Thorne?
+WHO IS THORNE?
 
-The response appeared before he pressed send.
-
-YOU WILL KNOW SOON.
-
-He left the phone faceup on the rack and backed toward the vault door.
-
-Outside, the building had become quiet. Too quiet for five forty-seven in the evening. No printers. No voices. No footsteps. Even the traffic seemed to have withdrawn. Through the front window, the streetlights were on, their halos bright in the gathering dusk.
-
-Then a song began playing from the parking lot.
-
-The bass came first, distorted by distance. A car idled near the curb. Its headlights were off.
-
-Skyler moved to the side window, keeping himself at an angle out of habit.
-
-A dark-blue sedan waited beneath the broken security light.
-
-The driver’s face was hidden. The music leaked—the cheap aftermarket speakers making the low end into a fuzz that felt in the teeth.
-
-The chorus reached him on a drift of warm air.
-
-The chosen one is only chosen to carry the blame.
-
-He did not know whether he was hearing the lyric or remembering it. He knew only that the sentence wrapped itself around the morning’s conviction and pulled tight.
-
-His phone buzzed one final time.
-
-COME ALONE.
-
-He picked it up.
-
-For several seconds, he held the device as if it were a small animal capable of deciding whether to bite.
-
-Then he opened the message.
-
-A location appeared, pinned with careless accuracy to the old rail warehouse district where the city stored the parts of itself it did not want to see by day. The map preview showed a rectangle of roofs and a line of tracks like scored lines on paper.
-
-A time: 11:30 p.m.
-
-A note beneath it:
+Before his thumb reached the button, another message arrived.
 
 BRING THE TRUTH PROTOCOL.
 
-He looked at the servers, the red emergency lights, and the four green indicators blinking in the same rhythm. He pictured the encrypted archive at home, the external drive in the drawer with the orange rubber band around it, labeled TP in Sharpie because he had not trusted himself to write the full words where anyone could see. It contained not secrets but the timber of a life: events, dates, sources, the difference between what he had seen and what he thought he had seen.
+His hand went cold.
 
-He thought of his daughters.
+The Truth Protocol was not public.
 
-He thought of Luna’s clumsy first checkmate, the way she had lined up her knights like a cartoon cavalry and then looked disappointed when the game ended because endings felt like punishments even when you had won. He thought of Summer standing in a summer storm, holding her hands under the downspout like a monk receiving communion. He thought of Alexis falling asleep with a toy compass in her fist and waking to ask whether north slept too.
+Not under that name.
 
-He thought of 2020, which had never really ended, not in his body. It had taught him that a person could be useful even when the story said he was ruined. He had not known to receive that as grace until later. At the time it had felt like a sentence dressed in volunteer badges and class rosters.
+It was an encrypted archive on an external drive at home: dates, events, documents, screenshots, confidence levels. A record of what he could prove and a quarantine zone for what he could not.
 
-He thought of the dark-blue car waiting outside.
+A map pin appeared beneath the message.
 
-Then he did the first thing the message had not predicted.
+Old rail warehouse district.
+
+11:30 p.m.
+
+COME ALONE.
+
+Skyler stared until the letters lost meaning and became shapes.
+
+He could go.
+
+That was the old instinct.
+
+Follow the signal. Find the mechanism. Force uncertainty to become an answer.
+
+He pictured Luna moving a knight in an L because she liked that it was the only piece allowed to refuse a straight line.
+
+Summer standing under a downspout with both hands open to the rain.
+
+Alexis carrying a toy compass upside down and announcing that north was broken.
+
+Then he did something the sender had not asked him to do.
 
 He called Lena.
 
-She picked up on the third ring. “Tell me you didn’t just post.”
+She answered quickly this time.
+
+“Tell me you didn’t post.”
 
 “I didn’t.”
 
-“Good. Tell me you’re not in a parking lot with a man in a car that matches your trauma.”
+“Good.”
 
-“Define with.”
+“They sent a location.”
 
-“Skyler.”
+Silence.
 
-He lowered his voice, though he knew the car outside would not hear him unless it wanted to. “They sent a location. The rail warehouses. Eleven thirty.”
+“And they know the name of my archive.”
 
-“They?”
+“What archive?”
 
-“Unknown number. A series of them. And—” He looked down at the screen. The messages sat there in their green and gray bubbles, too casual for what they contained. “They used a name.”
+“The Truth Protocol.”
 
-“Whose?”
+“Who knows that name?”
 
-“Thorne.”
+“Me.”
 
-She was quiet a beat too long. “I don’t want you going anywhere alone. Can you leave the center without passing the lot?”
+“Anybody else?”
 
-“There’s a back exit.”
+He thought.
 
-“Use it. Go home. Put your phone in a drawer. Write down exactly what happened today. Bring it to me in the morning.”
+“Maybe old collaborators. Maybe somebody saw a filename. Maybe I said it on a call.”
 
-“They said bring the Truth Protocol.”
+“Good. Keep doing that.”
 
-“I don’t care what they said. You’re not delivering anything to anyone at eleven thirty at night, and you’re not carrying your evidence through an empty district for the benefit of an anonymous text.”
+“Doing what?”
 
-“I thought you told me not to make a public accusation, not not to make a private appointment.”
+“Giving me possibilities instead of conclusions.”
 
-“I’m telling you not to deliver yourself to whoever writes bad poetry in your speakers.”
+He closed his eyes.
 
-“It was a car speaker.”
+“Warehouse. Eleven-thirty.”
 
-“Worse.” He could hear her moving, the muffled thunder of a heavy bag hitting the floor. “Do you have anyone with you?”
+“You’re not going.”
 
-“Caleb.”
+“I know.”
 
-“Does Caleb believe in consequences?”
+“You said that too fast.”
 
-“Caleb believes in cinnamon rolls.”
+“I’m not going.”
 
-“Tell him you need him to walk you to your car. Use the back lot. Don’t take the bait.”
+“Better.”
 
-Skyler closed his eyes and felt, for a strange moment, a sensation not unlike the feeling before a move in chess—two lines of attack, each with cost. The wanting to know. The wanting to be safe. He had been the sort of man who chose knowing. It had not gone well.
+Outside the vault, tires hissed on pavement.
 
-“All right,” he said.
+Skyler moved to the side window.
 
-“Say it like you mean it.”
+A dark-blue sedan idled beneath the broken security light.
 
-“I won’t go.”
+Headlights off.
 
-“Good. And Skyler—”
+The driver was only a shape.
+
+Music pulsed faintly through the closed glass.
+
+For one terrible second, Skyler felt relief.
+
+Not because the car was there.
+
+Because it was something another person could see.
+
+“Lena,” he said.
 
 “What?”
 
-“If you think there’s a chance they were in your apartment last night, don’t go back there alone either.”
+“The car is outside.”
 
-He hadn’t told her about the doorway. He hadn’t told anyone. He could hear his mother’s voice: In the first ten minutes, you decide what kind of day it’s going to be. He wondered which kind of day included a stranger’s instructions and a car humming in the dark.
+“Can you identify the plate?”
 
-“I’ll call you when I get to my mother’s,” he said.
+“No.”
 
-“Promise.”
+“Do not go closer.”
 
-“I promise.”
+“I know.”
 
-He hung up and, because habit was a path even fear could follow, he opened his photo roll to look at the screenshots.
+“Is anyone else in the building?”
 
-The first two, of the messages that said YOU FINALLY NOTICED and DON’T TRUST THE PEOPLE HELPING YOU, showed a timestamp he could not reconcile with his memory. 5:47 p.m. He had read them at 5:49. The third image, taken seconds later, showed 5:32 p.m. The file info panel claimed they had been modified at 5:53. He had not modified them. Cloud sync changed times. Time zones changed times. He could be wrong about the exact minute he had picked up the phone. A man could be wrong about more important things.
+“Caleb.”
 
-He took one more screenshot, this time of his lock screen, so that at least one image contained the hour, the date, the battery level at thirty-two percent, proof of a life passing in ridiculous detail.
+“Get him. Leave through the back. Do not make the car prove your theory for you.”
 
-He slid the phone into his jacket pocket as if it were an object that could behave if it felt fabric around it.
+That sentence cut through him.
 
-“Hey,” Caleb said from the doorway, head tilted. “You okay, man? You look like you saw a ghost.”
+Do not make the car prove your theory.
 
-“I need you,” Skyler said, and then realized how it sounded. “To walk me to my car. Back lot.”
+“All right.”
 
-Caleb’s eyebrows rose just a fraction. He held up his hands again, palms out. “Sure. Field trip. We doing this because you unplugged a speaker and now the speaker’s angry?”
+“And Skyler?”
 
-“Because I need another pair of eyes.”
+“What?”
 
-“On what?”
+“If you think anyone entered your apartment last night, don’t go back alone.”
 
-“Everything.”
+He looked toward the dark hallway.
 
-They took the hallway between the server room and the back exit, the way that still smelled faintly of the banker’s smoke from the building’s former life. The exit door stuck and then released with a rubber-hinged cough. The back lot was a ragged rectangle lined with weedy maples and one dumpster everybody pretended was a sculpture.
+He had never told her about waking at 6:12 convinced someone stood in the doorway.
 
-Skyler could feel the music from the front lot as a low grade in his bones. The back was empty.
+“I’ll go to my mother’s.”
 
-They crossed to Caleb’s compact sedan like they were just two guys joking about a playlist. At Caleb’s car, they paused long enough for the fiction of small talk—Caleb said something about the center’s potluck and whether anyone really wanted to eat a casserole from a room where people did malware trainings.
+“Call me when you’re there.”
 
-“I’ll text you when I’m home,” Skyler said.
+He hung up.
 
-“Do that. And—” Caleb circled a finger at his own temple. “Don’t let the phone pick the songs in your head.”
+Caleb appeared at the vault door carrying his jacket.
 
-Skyler got into his car and pulled out slow. At the corner, he did not turn right toward the street with the idling sedan. He turned left and made three lefts around the block, a geometry of avoidance.
+“You look like the server asked for child support.”
 
-At the third turn, he caught a glimpse down the side street of the dark-blue car still in front under the broken security light. It did not move. It wanted him to see that it did not have to.
+“I need you to walk out with me.”
 
-He drove toward his mother’s neighborhood, where porches were close to the street and wind chimes made ordinary noise. As he passed the church, the marquee had already been changed by some invisible hand with a long pole: WALK IN THE RAIN YOU’RE GIVEN, COME IN OUT OF THE STORM.
+“That bad?”
 
-Maria’s house was not far. He did not go there. He parked a block away and sat with the engine off, the hot silence of a summer evening entering the car like a second passenger.
+“I need another pair of eyes.”
 
-He pulled his phone out to text his mother that he was nearby and not to worry, then stopped.
+Caleb stopped joking.
 
-A new file had appeared in his audio recordings. Not in messages. Not in any account he had authorized. It sat in the folder he used for lectures and notes, named in a way he would not have named anything.
+“Front or back?”
+
+“Back.”
+
+They took the old service corridor. The exit door stuck, then opened with a rubber cough.
+
+Outside, the back lot was empty.
+
+Skyler let his shoulders lower one inch.
+
+Caleb glanced at him.
+
+“What am I looking for?”
+
+“Nothing, hopefully.”
+
+“Best assignment I’ve had all week.”
+
+They crossed to their cars.
+
+Before getting in, Skyler looked down the side street.
+
+From that angle he could see the sedan in front of the building.
+
+Still there.
+
+Caleb saw it too.
+
+“You know them?”
+
+“No.”
+
+“Want me to get the plate?”
+
+“No.”
+
+Caleb looked surprised.
+
+So was Skyler.
+
+“No,” he repeated. “We leave.”
+
+They did.
+
+---
+
+He drove toward his mother’s neighborhood without using the route his phone suggested.
+
+Not because he believed the map was compromised.
+
+Because he wanted one decision that belonged entirely to him.
+
+Three left turns.
+
+A right.
+
+Past the church.
+
+Past the park where one of his daughters had once insisted the moon was following their car.
+
+Maria’s street was close now. Porches. Wind chimes. A sprinkler making a patient arc across a lawn.
+
+Ordinary noise.
+
+Skyler parked one block away and killed the engine.
+
+His hands shook only after everything became quiet.
+
+He opened the phone to text his mother.
+
+A new file sat in his audio recordings.
+
+Not a message attachment.
+
+Not a download.
+
+A local recording.
 
 door_open_0612.wav
 
-His heart stuttered once, then steadied like a drummer catching a dropped stick.
+He stared at the filename.
 
-He tapped the file and then froze with his thumb hovering above play.
+Six twelve.
 
-For a moment he was again on his back in the half-light, certain and absurd, a grown man reading the shape of a door as if it were a palm.
+The exact minute he had opened his eyes.
 
-He told himself that the file could be a sound effect. That he could have made it by accident. That a program somewhere was indexing his microphone. That the time in the file name could be coincidence.
+He checked the file information.
 
-He told himself that if a person wanted to control him, the easiest way was to give him something impossible to verify and impossible to ignore.
+Created 6:12 a.m.
 
-In the end, none of the sentences mattered.
+No source listed.
+
+He told himself what Lena would tell him.
+
+A filename is not proof.
+
+Metadata can be wrong.
+
+Applications synchronize.
+
+Old files acquire new dates.
+
+A person trying to manipulate him would want something impossible to verify and impossible to ignore.
+
+He should preserve it.
+
+He should not play it alone in a parked car.
 
 He pressed play.
 
-The file began with the soft click of his latch. Then the slow sigh of wood opening into a room where a man had been sleeping and already knew.
+At first there was only room tone.
+
+Then the soft click of his bedroom latch.
+
+The slow sigh of wood moving across carpet.
+
+A pause.
+
+And one human breath that was not his.
+
 
 ## Chapter Two
 ### The Year That Would Not End
