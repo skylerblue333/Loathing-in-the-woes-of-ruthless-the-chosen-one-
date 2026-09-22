@@ -14,7 +14,7 @@ The plot must preserve ambiguity without becoming vague. Certain facts are prove
 
 **Occupation:** Former founder of Blue Code Technologies; independent software architect and privacy researcher after the company’s collapse.
 
-**Family:** Mother Maria Blue. Three daughters—Luna, Summer, and Alexis—who remain emotionally central but are not used as disposable victims. Former fiancée Sarah remains an off-page legal and emotional presence. Hanna Dawn is a later partner and boundary-setting emotional anchor.
+**Family:** Mother Maria Blue. Three daughters—Luna, Summer, and Alexis—who remain emotionally central but are not used as disposable victims. Former fiancée Kaylee remains an off-page legal and emotional presence. Hanna Dawn is a later partner and boundary-setting emotional anchor.
 
 **Strengths:** Systems thinking, persistence, empathy for vulnerable people, technical literacy, willingness to work, and the capacity to keep records under pressure.
 
