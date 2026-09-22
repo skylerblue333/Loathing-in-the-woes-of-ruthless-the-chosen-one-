@@ -7,7 +7,7 @@
 
 **Secondary genres:** Speculative crime fiction, psychological suspense, cyberwar thriller, and family drama.
 
-**Manuscript length:** Approximately 132,000 words in the completed full-length draft. Final page count will depend on trim size, typography, and format.
+**Manuscript length:** Approximately 102,000 words in the completed editorial edition. Final page count will depend on trim size, typography, and format.
 
 **Tone:** Dark, cinematic, tense, morally serious, emotionally intimate, and ultimately hopeful.
 
@@ -84,7 +84,7 @@ This is a work of fiction. Names, characters, organizations, technologies, locat
 
 ### Final publication checklist
 
-Complete a professional copyedit for grammar, punctuation, repeated phrasing, scene transitions, dialogue formatting, chapter-heading consistency, pacing, and continuity. The family-edition pass has strengthened the dedication, “Before the Glitch” opening, 2020 second-chance arc, and keepsake material; the remaining copyedit should protect that voice rather than flatten it. Confirm every character name, relationship, age, object, location, and date against `novel_bible.md` and `loathing_chapter_plotline_timeline.md`. Confirm that the manuscript contains no private contact information, unsupported real-world allegations, identifiable details about uninvolved people, or reproduced song lyrics.
+The developmental and continuity pass is complete. Before upload, proofread the rendered Kindle and paperback files for conversion artifacts, punctuation slips, widows/orphans, chapter-heading consistency, and any last typographic errors; protect the book’s established voice rather than flattening it. Confirm every character name, relationship, age, object, location, and date against `novel_bible.md` and `loathing_chapter_plotline_timeline.md`. Confirm that the manuscript contains no private contact information, unsupported real-world allegations, identifiable details about uninvolved people, or reproduced song lyrics.
 
 For Kindle, convert the Markdown master into a reflowable file with clean heading styles and a linked table of contents. For paperback, prepare a 6 × 9 inch interior with mirrored margins, embedded fonts, page numbers beginning after the front matter, and chapter openings appropriate to the selected layout. Order a proof copy before enabling distribution. Check the cover against trim, bleed, spine-width, and barcode requirements.
 
