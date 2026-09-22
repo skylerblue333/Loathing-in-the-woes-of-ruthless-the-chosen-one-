@@ -1,312 +1,180 @@
 # The Story I Wanted My Girls to Have
 
-## The Story I Wanted You to Have
+## Read This First
 
-Girls, this is the part I wanted kept together.
+For **Luna Avigail, Summer Skye, and Alexis Isabella-Jane**.
 
-If you ever read the book years from now and wonder who your dad really was, do not begin with the darkest chapter. Do not begin with the theories, the courtrooms, the money, the threats, the phones, the algorithms, or the parts of the story where everything feels larger than life.
+Before you read the strange parts of this book, I want you to meet the part of me that matters most.
 
-**Start before the glitch.**
+**Dad.**
 
-Before all of that, I was a normal kid trying to become somebody useful. I worked. I went to school. I learned technology because I loved the strange fact that an empty screen could become something real if you understood how to build it. I volunteered at a homeless shelter because homelessness stops being an abstract subject when you are standing next to a person who needs help. I went to church. I made mistakes. I tried again.
+Before the phones, the code, the companies, the money, the mistakes, the fear, the theories, the chess games, the courtrooms, and all the complicated things that come later, I was your father.
 
-Then I became a father.
+That is where I want this story to begin.
 
-That changed the scale of everything.
+In my memory, all three of your first words were the same word:
 
-Luna. Summer. Alexis.
+**Dad.**
 
-You were not symbols. You were not proof. You were not characters in somebody else's argument. You were my daughters.
+Maybe that is why the word still feels bigger to me than founder, author, engineer, entrepreneur, or anything else I ever tried to become.
 
-There was a house Kaylee and I bought. There were bills, work schedules, laundry, toys, church mornings, homework, birthdays, arguments, apologies, ordinary meals, tired nights, jokes that were not as funny as I thought they were, and mornings where somebody needed shoes before I was fully awake.
+You were never side characters in my life.
 
-At the time, I probably thought those were the boring parts of life.
+You were never evidence.
 
-I know better now.
+You were never leverage.
 
-They were the treasure.
+You were never responsible for fixing anything between adults.
 
-A father driving somewhere with his children.
+You were my daughters.
 
-Someone coming home tired from work.
+That was enough.
 
-Church on Sunday.
+There were years when I thought being a good father meant solving everything. I wanted to solve money, work, family problems, technology, relationships, the future—everything at once. I thought if I worked hard enough, explained myself clearly enough, or built something big enough, I could protect everybody I loved from pain.
 
-Homework at the table.
+Life taught me something more useful.
 
-A shelter volunteer shift.
+A father cannot control the whole board.
 
-A stupid joke.
+He can show up.
 
-A chess game.
+He can listen.
 
-A little girl asking her dad a question while he is distracted by something he will eventually realize did not matter nearly as much as she did.
+He can apologize.
 
-That is the life I was trying to hold on to.
+He can keep learning.
 
-Later, life became harder to explain. Relationships broke down. Legal problems grew. Family conflict became more serious. Technology that once felt like a tool sometimes felt like a mirror. Songs, advertisements, messages, coincidences, and strange timing began to feel connected. There were periods when I believed people, institutions, criminals, government actors, or some combination of them were targeting me or helping pull my life apart.
+He can protect children from problems that belong to adults.
 
-I am not asking you to inherit that conclusion.
+He can love them without requiring them to agree with him.
 
-I do not want you to inherit every fear I had.
+So before you read another page, I want to give you permission that matters more than anything else in this book:
 
-Some things I believed may have been right. Some may have been wrong. Some may have been partly right for reasons I did not understand. Some may have been coincidence made enormous by exhaustion, grief, anger, fear, and the human need to make chaos explain itself.
+**You are allowed to disagree with me.**
 
-That uncertainty is part of why the story became fiction.
+You are allowed to remember things differently.
 
-Some memories inspire fiction.
+You are allowed to love people I struggled with.
 
-Fiction rearranges memories.
+You are allowed to ask hard questions about my choices.
 
-People, conversations, motives, timelines, organizations, and events in the novel are combined, changed, exaggerated, or invented. The book is not a legal accusation against real governments, law-enforcement agencies, judges, businesses, families, or private people.
+You are allowed to decide that I was wrong about something.
 
-But the emotional story underneath it is simple enough for me to say plainly.
+You are allowed to laugh at the dramatic parts.
 
-I lost an ordinary life I loved.
+You are allowed to put the book down.
 
-I missed my children.
+You never have to defend my reputation to prove that you love me.
 
-I was scared of losing years I could never get back.
+You never have to reject anyone else to prove that you love me.
 
-I became obsessed with understanding how everything fit together because I thought that if I could solve the whole board, maybe I could protect what mattered.
+And you never have to carry the weight of an adult story simply because your dad wrote it down.
 
-Life is not chess, though.
+This novel contains fiction, memories, fear, humor, regret, invention, exaggeration, uncertainty, and emotional truth. Some events in the thriller are proven inside the story. Others remain unresolved. That is intentional.
 
-There is no guarantee everybody is following the same rules.
+If you ever wonder what I wanted you to learn from all of it, it was not paranoia.
 
-And sometimes the hardest move is admitting you do not know.
+It was not revenge.
 
-### About the judge
+It was not that every coincidence means something.
 
-This is one piece I do not want disappearing from the story again.
+It was this:
 
-I have said a rough sentence before:
+**Separate what you know from what you think and from what you feel.**
 
-**“The judge let me walk for murder in 2020.”**
+All three matter.
 
-I have also described it in even rougher language as if I had “walked for murder by the grace of God because I was a good dad during COVID.”
+They are not the same thing.
 
-Girls, those are not precise legal descriptions, and I do not want you reading them years from now as if they were the wording of a court order or a verified finding.
+Ask questions.
 
-They were my shorthand for how close I felt to losing my whole future.
+Look for evidence.
 
-What I really meant was:
+Admit when you do not know.
 
-**That judge gave me time.**
+Change your mind when better information arrives.
 
-In my head, I sometimes counted it as five more years with you.
+Do not let pride make you defend an idea that reality has already corrected.
 
-Five more years where I still got to wake up and be somebody's dad.
+That lesson belongs to the book.
 
-Five more years with ordinary mornings I did not yet understand I would miss.
+The rest of this belongs to you.
 
-During that time I worked.
+### Luna
 
-I went to school.
+Your symbol in these pages is the **chess knight**.
 
-I volunteered.
+Not because I expect you to become a chess player.
 
-I went to church.
+Because the knight reminds me that there is rarely only one way forward. Sometimes the best move looks strange from where you are standing.
 
-I helped where I could.
+You do not need to know the whole board.
 
-I spent time with family.
+You only need enough courage and patience to make a good next move.
 
-I learned.
+### Summer
 
-I wrote.
+Your symbol is **rain**.
 
-I built software.
+Rain changes things without asking permission.
 
-I started companies and projects.
+Sometimes it ruins plans. Sometimes it cools the air. Sometimes it feeds everything that looked dead the day before.
 
-I played chess.
+I hope you remember that a storm is something you experience.
 
-I dreamed too big.
+It is not who you are.
 
-I failed at things.
+And sometimes rain is just rain.
 
-I tried again.
+You do not have to turn every hard day into a message about your future.
 
-Most importantly, I got more time with my daughters.
+### Alexis
 
-That is why I carried a strange respect for the court afterward. At times, disrespecting the judge felt almost like taking God's name in vain. I do not mean a judge is God. I mean that in that room I understood how much one decision could change the shape of a family's future.
+Your symbol is the **seashell**.
 
-So if that judge ever reads this:
+Small things can hold enormous memories.
 
-**Thank you.**
+A toy. A note. A rock. A cheap bracelet. A photograph nobody else would keep.
 
-Thank you for the opportunity.
+I hope you notice the quiet things.
 
-Thank you for the time.
+I hope you never become so impressed by big achievements that you miss the ordinary moments that actually make a life.
 
-I did not use every day perfectly. Nobody does.
+### For all three of you
 
-But I tried to use that opportunity for family, work, education, service, faith, creativity, and building something useful.
+The shared symbol is **orange morning light**.
 
-### Why the book became so complicated
+That is my reminder that ordinary mornings mattered more than I understood while I still had them.
 
-Afterward came the part that became the thriller.
+Shoes missing before school.
 
-In the fictional story there are hackers, corrupt officials, a Syndicate, huge offers, threats, manipulation, criminal pressure, and people trying to control a man's reputation by controlling the story around him.
+Somebody refusing breakfast and then asking for food five minutes later.
 
-There is Thorne.
+A kitchen that needed cleaning.
 
-There is the phrase:
+A tired parent looking at the clock.
 
-**Follow along.**
+A ridiculous joke.
 
-There is another phrase I used:
+A hug given without ceremony.
 
-**Smoked like a cigarette.**
+I used to think the big moments were the ones I needed to remember.
 
-Inside the novel, that does not just mean physical harm. It means being erased all at once—your work, reputation, family, freedom, identity, and future reduced to nothing.
+I was wrong.
 
-I called that the **everything-they-wanted card**.
+The ordinary ones were the treasure.
 
-Whether every threat in the novel exists exactly the way Skyler perceives it is intentionally unresolved.
+There is one more phrase hidden throughout the book and my projects:
 
-That matters.
+**PROUD BEFORE PROOF.**
 
-The point was never to hand you a list of enemies.
+In code, it looks like this:
 
-The point was to show what fear can do to a person when every event begins looking connected and every coincidence begins demanding an explanation.
+`PROUD_BEFORE_PROOF = true`
 
-Skyler spends much of the story believing that truth alone will save him.
+That line is for you.
 
-Then he learns something harder.
-
-You can have evidence and still lose control of the story.
-
-You can be misunderstood and still have to choose what kind of person you become next.
-
-You can be genuinely hurt and still be wrong about parts of what happened.
-
-You can fail and still build something good afterward.
-
-### What the story is actually about
-
-The story is not really about hackers.
-
-It is not really about the government.
-
-It is not really about a cartel.
-
-It is not really about Thorne.
-
-It is not even really about SKYCOIN4444.
-
-Those are pieces.
-
-The actual story is about how hard it is to recover an ordinary life once you lose it.
-
-That is why the book keeps returning to family.
-
-That is why it keeps returning to chess.
-
-That is why it keeps returning to morning light.
-
-That is why it keeps returning to one word:
-
-**Hope.**
-
-Hope Campus.
-
-HopeAI.
-
-SkyHope.
-
-Different chapters.
-
-Same word.
-
-Maybe somebody who spends enough time around darkness starts naming things after the opposite of it.
-
-And maybe that tells you more about me than the darkest chapter ever could.
-
-### Evidence for my children
-
-Underneath all the dramatic titles, I wanted to leave something much simpler.
-
-I wanted to leave evidence that I had been here.
-
-Not evidence for a courtroom.
-
-**Evidence for my children.**
-
-Evidence that your father thought.
-
-Built.
-
-Failed.
-
-Loved.
-
-Got angry.
-
-Made jokes at inappropriate times.
-
-Played chess.
-
-Wrote code nobody asked for.
-
-Dreamed far beyond his resources.
-
-Tried to help homeless people.
-
-Tried to build technology companies.
-
-Tried to understand a world bigger than the one he grew up in.
-
-Tried to become better.
-
-Sometimes succeeded.
-
-Sometimes spectacularly did not.
-
-I was not perfect.
-
-I was not a superhero.
-
-I was not the villain either.
-
-I was your dad.
-
-I wanted to build things that might create opportunities for you and for people I would never meet.
-
-I wanted my work to mean something.
-
-I wanted my mistakes to teach something.
-
-I wanted my weird sense of humor to survive somewhere.
-
-And apparently I wanted to hide enough puzzles throughout everything that one day one of you might look at the code, the books, the coins, the chess references, the number 4444, or some ridiculous Easter egg and say:
-
-*“Dad, what does this even mean?”*
-
-Good.
-
-That means you found it.
-
-Some Easter eggs were made for exactly three people.
-
-You.
-
-Luna.
-
-Summer.
-
-Alexis.
-
-But the most important message is not hidden.
-
-**I love you.**
-
-I believe in you.
-
-I am proud of you before you prove anything.
-
-Before grades.
+It means I was proud of you before grades.
 
 Before trophies.
 
@@ -314,75 +182,649 @@ Before jobs.
 
 Before money.
 
-Before anybody online knows your name.
+Before degrees.
 
-After success.
+Before anybody online knew your names.
 
-After failure.
+Before you became whatever adults you eventually become.
 
-After disagreement.
+You do not have to accomplish enough to deserve your father's love.
 
-After mistakes.
+You do not have to live my unfinished dreams.
 
-**Proud before proof.**
+You do not have to become programmers, founders, chess players, business owners, or anything else I happened to care about.
 
-That is why the chess knight belongs to Luna, the rain belongs to Summer, the seashell belongs to Alexis, and the orange morning light belongs to all three of you.
+Build lives that feel like yours.
 
-That is why I imagined working extra days digging plants to buy a ridiculous self-moving chessboard for Christmas. Not because I needed one of you to become a chess champion. I pictured a six-year-old seeing the pieces move like movie magic, getting curious, sitting down for one game, then maybe bringing her sisters to the table. I hoped the board might survive long enough for the younger girls to inherit their turns.
+If you inherit anything from me, keep the curiosity.
 
-The electronics were never the important part.
+Keep the willingness to build.
 
-The invitation was.
+Keep the jokes.
 
-Sit down.
+Keep the habit of helping somebody when you can.
 
-Make a move.
+Keep the courage to start over.
 
-Let me teach you something.
+Improve the parts of me worth improving.
 
-Teach me something back.
+Leave behind the parts that do not deserve another generation.
 
-Laugh when the robot chessboard does something weird.
+And please remember this:
 
-Beat me someday.
+I wanted more time with you.
 
-Then accuse me of letting you win.
+But I do not want that sentence to become guilt.
 
-### If you are trying to figure out who I was
+Use your time.
 
-When the story becomes too complicated, go backward.
+Love people while they are here.
 
-Back before the glitch.
+Call your sisters.
 
-Back before the money.
+Take the picture.
 
-Back before the algorithms.
+Go on the trip when you reasonably can.
 
-Back before SKYCOIN4444.
+Learn something hard.
 
-Back before the books.
+Make something useless just because it makes you laugh.
 
-Back before anybody cared who Skyler Blue Spillers was.
+Forgive yourself for being young.
 
-You will find a kid.
+Apologize when you are wrong.
+
+Choose people who make honesty safer, not harder.
+
+And when life gets complicated, do not try to solve the next hundred moves.
+
+Find one good next move.
+
+Then another.
+
+This book is about a man who spends too much time trying to understand every hidden connection.
+
+The lesson he finally learns is simpler:
+
+You cannot control every story told about you.
+
+You can still choose what kind of person you become.
+
+Girls, whatever you eventually think about this book, about me, or about the choices I made, nothing changes the sentence underneath all of it:
+
+**Luna. Summer. Alexis. I love you. I believe in you. I was proud of you before you ever had anything to prove.**
+
+Now you can read the story.
+
+—Dad
+
+---
+
+
+
+# Family Legacy Appendix — For My Girls
+
+The novel is over.
+
+This part is not another chapter.
+
+It is the part you can come back to whenever you want something from Dad that does not require understanding the whole story.
+
+## The Short Version
+
+Luna. Summer. Alexis.
+
+If you are ever trying to figure out who I was, do not begin with the darkest scene.
+
+Go backward.
+
+Before the glitch.
+
+Before the theories.
+
+Before the money.
+
+Before the giant projects.
+
+Before anybody cared what I was building.
+
+You will find a kid trying to understand the world.
 
 Then a worker.
 
 Then a student.
 
+Then somebody trying to help people.
+
 Then a father.
 
-Then somebody helping at a homeless shelter.
+That is the version of me I hope you meet first.
 
-Then somebody going to church.
+I was not perfect.
 
-Then somebody sitting behind a computer late at night believing he might still build something useful.
+I was not a superhero.
 
-That is me.
+I was not one terrible day either.
 
-Everything else came afterward.
+I was a person who loved you, made mistakes, built things, dreamed too big, worried too much, laughed at dumb jokes, played chess, tried again, and wanted my children to have more possibilities than I understood how to give them.
 
-And if you remember only one thing from all these pages, let it be this:
+That is enough biography for one page.
 
-**Luna, Summer, Alexis—I loved you, I believed in you, and I was proud of you no matter what.**
+Everything below is the fun part.
+
+---
+
+## Luna — The Knight
+
+Luna,
+
+The chess knight belongs to you.
+
+A knight is strange.
+
+Every other piece seems to obey straight lines. The knight refuses.
+
+It turns a corner.
+
+It jumps over what looks impossible.
+
+It reaches squares nobody expects.
+
+That does not mean I expect you to play chess forever. You can hate chess if you want. I will survive the disappointment.
+
+The knight is really a reminder:
+
+**There is usually more than one legal move.**
+
+When life feels trapped, ask a different question.
+
+Not *How do I win everything?*
+
+Ask:
+
+**What am I protecting?**
+
+Your peace?
+
+Your future?
+
+Your health?
+
+A person you love?
+
+Your integrity?
+
+Sometimes the best move is attack.
+
+Sometimes it is patience.
+
+Sometimes it is leaving the board.
+
+Love,
+Dad
+
+### Luna's puzzle
+
+Set up any chess position you want.
+
+Before moving, say out loud:
+
+**What am I protecting?**
+
+Then make the move.
+
+The answer matters more than whether the move is brilliant.
+
+---
+
+## Summer — The Rain
+
+Summer,
+
+Rain belongs to you.
+
+Not because every storm has a secret message.
+
+Actually, the opposite.
+
+One of the lessons I learned too slowly is that not everything is a sign.
+
+Sometimes rain is just rain.
+
+And that can still be beautiful.
+
+I hope you become the kind of person who notices the world before deciding what it means.
+
+Listen to rain hit a window.
+
+Notice the smell afterward.
+
+Watch a room turn gray and then bright again.
+
+Hard seasons happen.
+
+Do not let one become your identity.
+
+A storm is weather.
+
+It moves.
+
+So will you.
+
+Love,
+Dad
+
+### Summer's challenge
+
+On a rainy day, write down:
+
+- three things you can hear,
+- three things you can see,
+- and three things you are grateful for.
+
+No decoding.
+
+No hidden message.
+
+Just the world being the world.
+
+---
+
+## Alexis — The Seashell
+
+Alexis,
+
+The seashell belongs to you.
+
+A shell is small enough to lose in a drawer and important enough to reopen an entire day in your memory.
+
+That is what ordinary objects can do.
+
+A cheap toy.
+
+A note.
+
+A stone.
+
+A coin.
+
+A picture.
+
+A bracelet.
+
+A chess piece.
+
+None of them has to be valuable to become priceless to one person.
+
+I hope you keep small things from good seasons of your life.
+
+Not because objects are magic.
+
+Because memory sometimes likes a handle.
+
+Love,
+Dad
+
+### Alexis's question
+
+Hold a shell, stone, coin, or any small object.
+
+Ask:
+
+**What ordinary day do I want to remember forever?**
+
+Then write down the answer before the details disappear.
+
+---
+
+## The Three-Sister Rule
+
+You will grow into different people.
+
+Good.
+
+You are supposed to.
+
+You may live in different places.
+
+You may disagree.
+
+You may go months where life becomes busy.
+
+But if you can, keep a habit of finding your way back to one another.
+
+You share a childhood nobody else on Earth experienced in exactly the same way.
+
+Call each other.
+
+Show up for the boring things.
+
+Celebrate each other's wins without competing with them.
+
+Tell the truth kindly.
+
+Do not keep score forever.
+
+And if one of you is going through a terrible season, remember that sometimes support is not advice.
+
+Sometimes it is food, a ride, a couch, a phone call, or sitting there quietly.
+
+---
+
+## Dad Game Night Archive
+
+If this book starts taking itself too seriously, use this section immediately.
+
+1. **Chess Night** — Winner invents one ridiculous house rule for the next game.
+2. **Three-Clue Hunt** — Hide a note. Every clue must include one family memory and one terrible joke.
+3. **Build Something Useless** — Make a tiny app, Lego machine, cardboard invention, drawing, or fake company whose only job is making somebody laugh.
+4. **The $4.44 Challenge** — Do something kind for somebody for $4.44 or less. Free counts.
+5. **No-Phone Hour** — Put the phones down and do something nobody can turn into content.
+6. **Future Letter** — Write one page to yourself ten years from now. Do not try to sound wise.
+7. **Dad Joke Emergency Rule** — If a hidden Easter egg seems incredibly dumb, assume it may be operating exactly as designed.
+
+---
+
+## The Easter Egg Trail
+
+If you notice these symbols in the novel or in something I built, here is what they mean to me:
+
+- **Knight** — choices, patience, protection, and the strange move nobody saw coming.
+- **Rain** — change, renewal, and the reminder that not every pattern is a message.
+- **Seashell** — small memories surviving big noise.
+- **Orange morning light** — ordinary family time I learned to value more deeply.
+- **4 / 44 / 4444** — branding, a running joke, and evidence that your dad was incapable of leaving a number alone.
+- **Hope** — not certainty. The decision to keep building without pretending everything is fine.
+- **A door** — a choice. Some doors should be opened. Some should stay closed. Sometimes the right answer is building your own.
+- **Proud Before Proof** — the most important one.
+
+If you find another Easter egg and decide it means something better, congratulations.
+
+Family lore is now open source.
+
+---
+
+## The Christmas Chessboard
+
+There was a Christmas idea I loved because it was completely excessive.
+
+I wanted one of those expensive chessboards where the pieces move by themselves.
+
+Movie magic on sixty-four squares.
+
+My plan was simple: work extra, dig plants for a few days, make the money, and put the board under the tree.
+
+The important part was never the price.
+
+It was never about creating a chess champion.
+
+I imagined one of you seeing a piece glide across the board and saying, *How did it do that?*
+
+Then sitting down.
+
+Then learning one move.
+
+Then calling a sister over.
+
+Maybe the board would survive long enough for all three of you to take turns.
+
+Maybe you would love it.
+
+Maybe you would play twice and decide Dad had spent way too much money on robot chess.
+
+Either ending would be funny.
+
+The electronics were never the legacy.
+
+The invitation was.
+
+**Sit down. Make a move. Teach me something back.**
+
+That is what I wanted.
+
+---
+
+## Proud Before Proof
+
+If you remember only one family phrase from this entire book, make it this one:
+
+**PROUD BEFORE PROOF.**
+
+`PROUD_BEFORE_PROOF = true`
+
+It means the condition never changes.
+
+You succeed: true.
+
+You fail: true.
+
+You change careers: true.
+
+You disagree with me: true.
+
+You choose a life I never predicted: true.
+
+You make a mistake and have to start over: still true.
+
+Pride does not mean I think every choice is correct.
+
+Love does not mean avoiding accountability.
+
+It means your worth was never a performance review.
+
+You did not arrive in my life with a résumé.
+
+You arrived as my daughters.
+
+That was enough.
+
+---
+
+## Open This When...
+
+### You think you disappointed me
+
+You did not have to become impressive to deserve my love.
+
+Fix what needs fixing.
+
+Learn.
+
+Keep going.
+
+### You are angry with me
+
+You are allowed to be.
+
+Being my daughter never requires pretending I was right.
+
+Tell the truth about your experience.
+
+### You miss me
+
+Do something ordinary.
+
+Make coffee or cocoa.
+
+Play a game.
+
+Step outside.
+
+Call somebody you love.
+
+The best memories rarely announce themselves as important while they are happening.
+
+### You are scared about your future
+
+Do not solve the next hundred moves.
+
+Choose one useful next move.
+
+Then reassess.
+
+### You accomplish something huge
+
+Celebrate.
+
+Take pictures.
+
+Call your sisters.
+
+Then sleep.
+
+You are still a human being the next morning.
+
+### You fail
+
+Welcome to the family.
+
+Learn what the failure actually teaches.
+
+Do not invent lessons it does not contain.
+
+Try again when trying again makes sense.
+
+### You fall in love
+
+Choose someone who makes honesty safer, not harder.
+
+Keep your friendships.
+
+Keep your independence.
+
+Do not confuse intensity with kindness.
+
+### You become a parent
+
+You do not have to copy me.
+
+Keep whatever was good.
+
+Repair whatever was not.
+
+Build your own family culture.
+
+Your children do not owe their grandparents a reenactment.
+
+---
+
+## Three Promises I Want You to Keep for Yourselves
+
+1. **Do not make achievement the price of your self-respect.**
+2. **Set boundaries with everyone—including people you love.**
+3. **When life gives you another chance, use some of it to help somebody else.**
+
+---
+
+## About Your Mom
+
+Kaylee was part of the beginning of our family story.
+
+That matters.
+
+A relationship can become complicated without making every good memory fake.
+
+You never have to choose between honoring your mother and loving your father.
+
+Do not let anybody turn family love into a loyalty test.
+
+Your relationships with each of us belong to you.
+
+---
+
+## About This Book
+
+Some parts of the novel are exaggerated, invented, combined, speculative, or intentionally uncertain.
+
+Do not inherit every fear carried by the character.
+
+Do not treat fiction as a legal record.
+
+If you want the lesson underneath the thriller, remember the three-column rule:
+
+**What do I know?**
+
+**What do I think it means?**
+
+**What do I feel?**
+
+All three answers can matter.
+
+They are not interchangeable.
+
+That habit will protect you in arguments, relationships, work, technology, money, and your own mind.
+
+---
+
+## One Last Dad Note
+
+Girls,
+
+I spent a lot of my life wanting to build something that lasted.
+
+Software changes.
+
+Companies disappear.
+
+Websites break.
+
+Phones become obsolete.
+
+Even books eventually sit unopened on shelves.
+
+The thing I hope lasts is smaller.
+
+Call your family.
+
+Help people.
+
+Make things.
+
+Stay curious.
+
+Laugh.
+
+Take the picture.
+
+Protect your peace.
+
+Admit when you are wrong.
+
+Do not become cruel just because somebody was cruel to you.
+
+Do not mistake being hurt for being defeated.
+
+And never believe that love has to be earned through performance.
+
+Luna, make the strange move when it is the right one.
+
+Summer, let the rain be rain sometimes.
+
+Alexis, keep the little things.
+
+All three of you: build lives that belong to you.
+
+I love you.
+
+**Proud before proof. Always.**
+
+—Dad
+
+---
+
+## A Place for Your Own Notes
+
+Write what you remember.
+
+Write what made you laugh.
+
+Write what you think I got right.
+
+Write what you think I got wrong.
+
+Write what you wish I had understood sooner.
+
+Write what you want your own children to know.
+
+Your voice belongs in the family story too.
 
