@@ -1,36 +1,50 @@
-# Editorial 10/10 Pass
+# Editorial 10/10 Pass — Completed Edition
 
-This branch is a developmental and line-edit pass aimed at making the novel tighter, clearer, more cinematic, and more emotionally durable.
+This branch contains the completed developmental editorial edition of *Loathing in the Woes of Ruthlessness: The Chosen One*.
 
-## Current measurable change
-- Publication manuscript before pass: approximately 146,701 words.
-- Current branch after opening + Chapter One pass: approximately 138,662 words.
-- Front matter reduced from approximately 7,468 words to approximately 1,577 words.
-- Chapter One reduced from approximately 4,497 words to approximately 2,349 words.
-- Original long family/front-matter material is preserved in `family_letters_full_preserved.md`.
+## Final manuscript metrics
+- Canonical manuscript: `manuscript_for_publication.md`
+- Final editorial length: approximately **102,375 words**
+- Structure: prologue, interlude, 24 chapters, epilogue, compact Family Legacy Appendix
+- README: byte-identical mirror of the canonical manuscript
+- Kids keepsake: polished and synchronized
+- Preserved source material: `family_letters_full_preserved.md`
 
-## Completed
-- Rebuilt the publication opening so the thriller begins much sooner.
-- Kept Luna, Summer, Alexis, and Proud Before Proof as the emotional thesis.
-- Removed resume-like technology exposition from the opening.
-- Clarified the evidence-vs-interpretation contract with the reader.
-- Rewrote Chapter One for escalation rather than repetition.
-- Fixed a continuity error where Thorne/drop information was reintroduced after already appearing in the prologue.
-- Strengthened Lena as the voice of verification without making her dismissive.
-- Made Skyler demonstrate growth through choices: document, verify, refuse bait, ask for another pair of eyes.
+## Major completed improvements
+- Rebuilt the pre-read family section into a focused **Read This First — For My Girls** letter.
+- Preserved Luna / Summer / Alexis as distinct people rather than symbols or evidence.
+- Locked the family motif continuity:
+  - Luna — chess knight
+  - Summer — rain
+  - Alexis — seashell
+  - all three — orange morning light
+  - `PROUD_BEFORE_PROOF = true`
+- Preserved Kaylee respectfully as part of the beginning of the family story without making the daughters choose sides.
+- Reduced long front matter and moved fuller legacy material to the appendix/keepsake.
+- Rewrote Chapter One to escalate from the prologue rather than repeat it.
+- Fixed Thorne/drop continuity between the prologue and Chapter One.
+- Rebuilt Chapters 20–24 and the epilogue as a connected final act:
+  **choice → confrontation → temptation → family → consequence → legacy**.
+- Reframed the Pawns Network and Society as distributed influence systems rather than omnipotent supernatural conspiracies.
+- Strengthened the book's core epistemic rule: observed fact, interpretation, and feeling are all important but are not interchangeable.
+- Strengthened Lena, Mara, Reyes, Maria, Hanna, and Thorne as characters with independent motives and boundaries.
+- Made Mara's endpoint accountability rather than automatic redemption.
+- Made Reyes's endpoint procedural reform rather than heroic rescue.
+- Made Lena's endpoint independent slower journalism.
+- Protected the daughters' privacy inside the plot.
+- Replaced spectacle-heavy resolution with verified release, narrow charges, unresolved elements, and durable institutional work.
+- Preserved the final transformation: Skyler hears the recurring four notes and lets them be a song.
+- Preserved the final family thesis: the girls do not need a chosen one; they need their dad.
+- Fixed the Kaylee/Sarah continuity mismatch.
+- Updated publication and Amazon metadata to the new ~102k-word editorial edition.
 
-## Remaining highest-value revision targets
-1. Cut repeated explanation after strong scenes.
-2. Give Mara, Lena, Hanna, Maria, Reyes, and Thorne stronger independent motives and consequential choices.
-3. Make every chapter change the board rather than merely add another strange event.
-4. Compress Chapters 20–23, currently the longest part of the climax.
-5. Strengthen dialogue and scene-level sensory detail while reducing abstract explanation.
-6. Preserve ambiguity: prove enough of the Pawns Network to satisfy the thriller while leaving some device/feed interpretation unresolved.
-7. Keep the daughters as people and emotional anchors, never evidence or leverage.
-8. Make the ending resolve Skyler's character, not every mystery: the final victory is choosing what he becomes.
-9. Run a final continuity pass for dates, technology names, relationship history, repeated clues, and what each character knows when.
-10. Finish with copyedit, typography cleanup, and publication-proof formatting.
+## Final QA
+- 24 chapter headings present.
+- Required parts/prologue/epilogue/appendix headings present.
+- No `TODO`, `FIXME`, or `TBD` markers in the canonical manuscript.
+- No stale Sarah reference in the canonical manuscript.
+- README exactly matches `manuscript_for_publication.md`.
+- Publishing metadata no longer reports the outdated 132,000-word count.
 
-## Editorial standard
-
-No editor can objectively guarantee a “10/10” because reader response is subjective. The target is a manuscript with professional pacing, coherent causality, memorable character arcs, clean prose, earned emotion, and a distinctive thematic identity.
+## Remaining production work outside manuscript editing
+The story edit is complete. Before commercial upload, render the manuscript into Kindle and paperback formats and perform a visual proof for conversion artifacts, pagination, typography, widows/orphans, cover sizing, and any last typo that appears only after typesetting.
