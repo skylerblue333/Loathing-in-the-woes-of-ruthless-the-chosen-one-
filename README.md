@@ -9295,19 +9295,19 @@ For Summer, a blue card with three crooked rain lines.
 
 Summer added rain to the house.
 
-For Alexis, a small brass compass.
+For Alexis, a small seashell.
 
-Alexis watched the needle move.
+Alexis held it to her ear.
 
 “What does it do?”
 
-“It finds north.”
+“Mostly reminds you to listen.”
 
-“Does north tell you where to go?”
+“To what?”
 
-“No.”
+“Whatever is quiet enough to miss.”
 
-She looked satisfied.
+She considered that.
 
 “Good.”
 
@@ -9919,17 +9919,19 @@ He did not let her.
 
 Summer dragged him outside to show him three different kinds of rain still sitting in puddles.
 
-Alexis found the brass compass in a supply drawer, spun in a circle, and watched the needle settle.
+Alexis carried the seashell from the school-room conversation in her pocket.
 
-“It still knows north.”
+She held it to her ear.
 
-“The compass does.”
+“It still sounds like the ocean.”
 
-“Do I have to go north?”
+“Even here?”
 
-“No.”
+“Especially here.”
 
-“Good.”
+Skyler smiled.
+
+Small things could carry whole places.
 
 They ate lunch from foil pans Maria had brought.
 
@@ -10099,7 +10101,7 @@ In a harmless demo repository used by the center sat three identifiers:
 
 `rain`
 
-`compass`
+`shell`
 
 Underneath them was one line that did absolutely nothing to the software:
 
