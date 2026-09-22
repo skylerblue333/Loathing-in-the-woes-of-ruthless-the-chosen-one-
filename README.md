@@ -23,257 +23,43 @@ No part of this book may be reproduced, distributed, or transmitted in any form 
 
 For **Luna Avigail, Summer Skye, and Alexis Isabella-Jane**.
 
-Before you read the strange parts of this book, I want you to meet the part of me that matters most.
+In my memory, each of you said the same word first: **Dad**.
 
-**Dad.**
+I wish I could hand you those moments whole—the sound of each voice, the room we were in, the look on your face. Memory does not keep things that neatly. What I know is that I have carried that word with me ever since. I tried on other names as I grew older: builder, writer, founder. None of them ever meant as much.
 
-Before the phones, the code, the companies, the money, the mistakes, the fear, the theories, the chess games, the courtrooms, and all the complicated things that come later, I was your father.
+If you have found this book years from now, you might be looking for me in its pages. You will find pieces. You will find a father who loves his children and a fictional man who sometimes mistakes his fear for an answer. Those are not the same thing, and I never want you to feel you must believe every page to know I loved you.
 
-That is where I want this story to begin.
+I used to think I could build a safe future if I worked hard enough: finish the degree, make the company work, solve the next problem before it reached our door. I missed how much of the future was already happening. A missing shoe before school. Someone hungry five minutes after refusing breakfast. A joke at the wrong time that made everybody laugh. The noise of us being home together.
 
-In my memory, all three of your first words were the same word:
+I wanted more of those mornings. I am grateful for the ones we had.
 
-**Dad.**
+This book has hard things in it. The adults make mistakes. Some characters tell stories about one another that cannot all be true. You may remember parts of our real life differently from me. You are allowed to. You can love your mom and love me. You can ask me hard questions. You can decide I was wrong. No daughter should have to take sides to keep her father's love.
 
-Maybe that is why the word still feels bigger to me than founder, author, engineer, entrepreneur, or anything else I ever tried to become.
+And you do not owe me a defense. You do not have to finish this novel, explain it to anyone, carry my worries, or make my unfinished dreams your job.
 
-You were never side characters in my life.
+I want to leave each of you something lighter than that.
 
-You were never evidence.
+**Luna**, I left you a chess knight. It can move in a way the other pieces cannot. When a straight path closes, there may still be another good move. You don't have to see the whole board to take it.
 
-You were never leverage.
+**Summer**, I left you rain. Some days it will spoil your plans; other days it will make the air feel new. You are allowed to have a hard day without calling it your whole life. You are allowed to stand in the sun without waiting for the weather to change.
 
-You were never responsible for fixing anything between adults.
+**Alexis**, I left you a seashell. Hold it and you may remember a place, a person, an afternoon that looked ordinary until it was gone. Keep the small things that matter to you, even if nobody else understands why.
 
-You were my daughters.
+For all three of you, I left **orange morning light**. It comes through a window without asking whether the kitchen is clean or anyone has figured life out yet. If you find it in the story, think of us at home. Think of a new day you get to make your own.
 
-That was enough.
-
-There were years when I thought being a good father meant solving everything. I wanted to solve money, work, family problems, technology, relationships, the future—everything at once. I thought if I worked hard enough, explained myself clearly enough, or built something big enough, I could protect everybody I loved from pain.
-
-Life taught me something more useful.
-
-A father cannot control the whole board.
-
-He can show up.
-
-He can listen.
-
-He can apologize.
-
-He can keep learning.
-
-He can protect children from problems that belong to adults.
-
-He can love them without requiring them to agree with him.
-
-So before you read another page, I want to give you permission that matters more than anything else in this book:
-
-**You are allowed to disagree with me.**
-
-You are allowed to remember things differently.
-
-You are allowed to love people I struggled with.
-
-You are allowed to ask hard questions about my choices.
-
-You are allowed to decide that I was wrong about something.
-
-You are allowed to laugh at the dramatic parts.
-
-You are allowed to put the book down.
-
-You never have to defend my reputation to prove that you love me.
-
-You never have to reject anyone else to prove that you love me.
-
-And you never have to carry the weight of an adult story simply because your dad wrote it down.
-
-This novel contains fiction, memories, fear, humor, regret, invention, exaggeration, uncertainty, and emotional truth. Some events in the thriller are proven inside the story. Others remain unresolved. That is intentional.
-
-If you ever wonder what I wanted you to learn from all of it, it was not paranoia.
-
-It was not revenge.
-
-It was not that every coincidence means something.
-
-It was this:
-
-**Separate what you know from what you think and from what you feel.**
-
-All three matter.
-
-They are not the same thing.
-
-Ask questions.
-
-Look for evidence.
-
-Admit when you do not know.
-
-Change your mind when better information arrives.
-
-Do not let pride make you defend an idea that reality has already corrected.
-
-That lesson belongs to the book.
-
-The rest of this belongs to you.
-
-### Luna
-
-Your symbol in these pages is the **chess knight**.
-
-Not because I expect you to become a chess player.
-
-Because the knight reminds me that there is rarely only one way forward. Sometimes the best move looks strange from where you are standing.
-
-You do not need to know the whole board.
-
-You only need enough courage and patience to make a good next move.
-
-### Summer
-
-Your symbol is **rain**.
-
-Rain changes things without asking permission.
-
-Sometimes it ruins plans. Sometimes it cools the air. Sometimes it feeds everything that looked dead the day before.
-
-I hope you remember that a storm is something you experience.
-
-It is not who you are.
-
-And sometimes rain is just rain.
-
-You do not have to turn every hard day into a message about your future.
-
-### Alexis
-
-Your symbol is the **seashell**.
-
-Small things can hold enormous memories.
-
-A toy. A note. A rock. A cheap bracelet. A photograph nobody else would keep.
-
-I hope you notice the quiet things.
-
-I hope you never become so impressed by big achievements that you miss the ordinary moments that actually make a life.
-
-### For all three of you
-
-The shared symbol is **orange morning light**.
-
-That is my reminder that ordinary mornings mattered more than I understood while I still had them.
-
-Shoes missing before school.
-
-Somebody refusing breakfast and then asking for food five minutes later.
-
-A kitchen that needed cleaning.
-
-A tired parent looking at the clock.
-
-A ridiculous joke.
-
-A hug given without ceremony.
-
-I used to think the big moments were the ones I needed to remember.
-
-I was wrong.
-
-The ordinary ones were the treasure.
-
-There is one more phrase hidden throughout the book and my projects:
-
-**PROUD BEFORE PROOF.**
-
-In code, it looks like this:
+You may also find this line hidden in my work:
 
 `PROUD_BEFORE_PROOF = true`
 
-That line is for you.
+That is the one bit of code I hope never needs fixing. I was proud of you before a grade, a trophy, a job, or anybody else's approval. You cannot lose my love by choosing a life different from the one I imagined. I hope you stay curious, help people when you can, make each other laugh, and keep your own minds.
 
-It means I was proud of you before grades.
+Sometimes this story's hero sees a pattern and gets it wrong. Sometimes he sees something real and still has to ask what it means. If the book gives you anything useful, let it be permission to say *I don't know yet*—and to change your mind without shame.
 
-Before trophies.
+If you miss me, call your sisters. Tell them a story I got wrong. Laugh at one of my jokes even if it was terrible. Go outside. Eat something good. Keep living a life that belongs to you.
 
-Before jobs.
+Luna. Summer. Alexis. I love you. I am glad I got to be your dad.
 
-Before money.
-
-Before degrees.
-
-Before anybody online knew your names.
-
-Before you became whatever adults you eventually become.
-
-You do not have to accomplish enough to deserve your father's love.
-
-You do not have to live my unfinished dreams.
-
-You do not have to become programmers, founders, chess players, business owners, or anything else I happened to care about.
-
-Build lives that feel like yours.
-
-If you inherit anything from me, keep the curiosity.
-
-Keep the willingness to build.
-
-Keep the jokes.
-
-Keep the habit of helping somebody when you can.
-
-Keep the courage to start over.
-
-Improve the parts of me worth improving.
-
-Leave behind the parts that do not deserve another generation.
-
-And please remember this:
-
-I wanted more time with you.
-
-But I do not want that sentence to become guilt.
-
-Use your time.
-
-Love people while they are here.
-
-Call your sisters.
-
-Take the picture.
-
-Go on the trip when you reasonably can.
-
-Learn something hard.
-
-Make something useless just because it makes you laugh.
-
-Forgive yourself for being young.
-
-Apologize when you are wrong.
-
-Choose people who make honesty safer, not harder.
-
-And when life gets complicated, do not try to solve the next hundred moves.
-
-Find one good next move.
-
-Then another.
-
-This book is about a man who spends too much time trying to understand every hidden connection.
-
-The lesson he finally learns is simpler:
-
-You cannot control every story told about you.
-
-You can still choose what kind of person you become.
-
-Girls, whatever you eventually think about this book, about me, or about the choices I made, nothing changes the sentence underneath all of it:
-
-**Luna. Summer. Alexis. I love you. I believe in you. I was proud of you before you ever had anything to prove.**
-
-Now you can read the story.
+Now, if you want to, turn the page.
 
 —Dad
 
@@ -281,31 +67,13 @@ Now you can read the story.
 
 ## Content Note
 
-This is a work of fiction. It contains themes of psychological manipulation, family separation, criminal exploitation, digital surveillance, institutional failure, coercion, corruption, counterfeit money, religious manipulation, and emotional distress.
-
-Organizations, agencies, operators, media campaigns, criminal networks, political communications, technologies, and public figures appearing in the thriller are fictionalized or presented as contested in-world claims. The novel does not assert that real governments, political figures, churches, creators, ethnic communities, cryptocurrency projects, or institutions secretly caused the events described here.
+This fictional novel includes psychological manipulation, surveillance fears, family separation, coercion, crime, religious abuse, and emotional distress. Its characters' claims are part of the story; they are not allegations about real people or institutions.
 
 ---
 
 ## Author’s Note
 
-This is a story about a man whose life becomes a battlefield of competing explanations.
-
-Some events are engineered.
-
-Some are criminal.
-
-Some are ordinary systems amplifying one another.
-
-Some are misunderstandings born from exhaustion, grief, and the human need to make chaos form a pattern.
-
-The distinction matters.
-
-A person can be genuinely threatened and still misunderstand who is threatening him. A system can fail without one hidden hand controlling every failure. Evidence can be real while the story built around it is wrong.
-
-Skyler Blue begins this novel believing survival requires him to understand everything.
-
-He ends it learning that truth does not require total explanation, love does not require control, and purpose begins where revenge ends.
+This story makes room for evidence, error, fear, and uncertainty. The family letter above speaks to my daughters; the thriller that follows is fiction. Read the characters closely, and decide what they know for yourself.
 
 ---
 
