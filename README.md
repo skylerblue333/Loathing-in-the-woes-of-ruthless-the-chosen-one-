@@ -99,226 +99,43 @@ This story makes room for evidence, error, fear, and uncertainty. The family let
 
 ### *Before the Glitch*
 
-If you want to understand what happens later, do not begin with the strangest thing.
+The first thing Skyler found was a shoe.
 
-Begin with what could be lost.
+It was under the kitchen table, beside a dropped crayon and a cereal bowl with two spoonfuls left in it. Someone needed it now. Someone else needed water. The clock said they were late. Kaylee stood at the counter looking for the keys while one of the girls insisted she had never taken them.
 
-A home.
+Skyler held up the shoe like a prize.
 
-A family.
+“Found it.”
 
-Three daughters.
+“That’s the wrong one.”
 
-Work boots by the door.
+Of course it was.
 
-School assignments on a table.
+By the time everybody was ready, the cereal had gone soft. Sunlight laid an orange square across the floor. Skyler would remember that square years later with a clarity he could not summon for the date or the season. In the memory, nobody had said anything important. They had been busy being a family.
 
-Church on Sunday.
+He did not know to call it happiness while he was living it. He called it Tuesday.
 
-A phone that was still mostly a phone.
+Outside the house, he worked, went to school, volunteered, and kept building things on a laptop that ran too hot. He liked software because an error left a trace. Find the broken line, fix it, run the program again. He liked chess because every move happened in view.
 
-A future ordinary enough that nobody thought to photograph every second of it.
+At home, neither rule applied. Children grew in directions nobody could diagram. A relationship needed attention when he had no spare hour to give it. Bills arrived whether a plan was finished or not. He loved Kaylee and the girls, and love did not turn him into a man who always chose well. Sometimes he made a joke when an apology would have helped. Sometimes he opened his laptop because a problem on the screen seemed easier than the one across the room.
 
-Long before strangers seemed eager to decide whether Skyler Blue was brilliant, crazy, lucky, doomed, dangerous, harmless, right, wrong, or simply stubborn, he had wanted the same things millions of people want without thinking of them as extraordinary.
+Later, he and Kaylee separated. No single sentence could hold what each of them lost or what each remembered differently. For Skyler, one loss was the sound of everyone getting ready in the same kitchen.
 
-Someone to come home to.
+He tried to make a new life from work, classes, faith, code, and a stubborn belief that enough effort could repair almost anything. Some days he managed. Some days he confused motion with progress.
 
-Children who ran toward him.
+Then his phone began to make him uneasy.
 
-Work that meant something.
+An advertisement arrived just after a private conversation. A song seemed to borrow a phrase he had written down. A notification appeared and vanished before he could show anyone. There were ordinary explanations for each event: targeting, synchronization, coincidence, bad sleep. He knew enough about systems to list them.
 
-Enough money that the electric bill stopped feeling like a referendum on adulthood.
+He also knew that systems could be tampered with.
 
-A future.
+The trouble was deciding which fact belonged to which explanation. Skyler began keeping notes. He wrote down what he saw, what someone else could verify, and what he was only afraid might be true.
 
-He had always been the kind of person who pulled at loose threads. If a machine broke, he wanted the panel off. If software failed, he wanted the logs. If an institution made a decision, he wanted to know what rule produced it.
+At first, the lists helped.
 
-It was useful until it was not.
-
-Before all of that became dangerous, it made him a builder.
-
-Technology gave him a particular kind of hope: a blank screen could become something that had not existed five minutes earlier. You could type a language into a machine and watch intention turn into behavior.
-
-Life never compiled that cleanly.
-
-Then he met Kaylee.
-
-They were young enough to discuss forever as though forever were a lease they had already signed. Their future contained a house, birthdays, Christmas mornings, arguments about groceries, children making too much noise, and two older versions of themselves pretending not to notice their gray hair.
-
-For a while, they got pieces of it.
-
-The apartment.
-
-The bills.
-
-The photographs.
-
-The exhaustion.
-
-The private jokes.
-
-A child asleep against his chest with enough trust to make every bad thing in the world suddenly feel personal.
-
-Then another daughter.
-
-Then another.
-
-**Luna. Summer. Alexis.**
-
-In his memory, all three first words became the same word:
-
-**Dad.**
-
-He would spend years believing wealth was still ahead of him.
-
-The promotion.
-
-The degree.
-
-The company.
-
-The software.
-
-The house.
-
-The breakthrough.
-
-He understood too late that some of the richest days of his life had looked completely ordinary while he was inside them.
-
-A missing shoe.
-
-A grocery run.
-
-A kid refusing to sleep.
-
-A kitchen that needed cleaning.
-
-The sound of everybody home at once.
-
-That was the life worth losing.
-
-Which meant it was also the life worth protecting.
-
-Skyler worked. He went to school. He volunteered. He tried to make himself useful. He learned technology the way some people learn a city: first the obvious streets, then the alleys, then the places where different systems quietly connected.
-
-Software became architecture.
-
-Architecture became identity.
-
-Identity became the question underneath nearly everything.
-
-Who gets to act in your name?
-
-Who controls the record of what you did?
-
-What happens when a machine makes a consequential decision and every human involved claims the machine did it?
-
-How do you prove an event happened without pretending you understand its motive?
-
-The principles he wrote for software were simple:
-
-**Evidence over assumption.**
-
-**Security by default.**
-
-**Document what actually happened.**
-
-**Keep humans responsible for human consequences.**
-
-At the time they were engineering rules.
-
-Later they became survival rules.
-
-He built companies and prototypes. Some ideas were useful. Some were oversized. Some were the kind of idea a person creates after staring at a monitor too long and deciding one platform should contain half the internet.
-
-He built because building made the future feel negotiable.
-
-He played chess for the same reason.
-
-A board gave chaos boundaries.
-
-Sixty-four squares.
-
-Visible pieces.
-
-Known rules.
-
-Consequences you could trace backward to a move.
-
-Life was less polite.
-
-The relationship with Kaylee eventually broke. Skyler did not only lose a fiancée. He lost the future he had rehearsed so many times it had begun to feel like memory.
-
-The porch.
-
-The ordinary dinners.
-
-The assumption that his daughters would always be one room away.
-
-He tried to rebuild.
-
-Work.
-
-School.
-
-Relationships.
-
-Code.
-
-Faith.
-
-More code.
-
-He made good decisions and bad ones. He could be stubborn, proud, obsessive, funny, generous, distracted, loyal, impulsive, and far too interested in solving tomorrow before finishing today.
-
-None of that required a conspiracy.
-
-Then something changed.
-
-Or he changed.
-
-That distinction becomes one of the central questions of this book.
-
-The first anomalies were small enough to insult anyone who tried to explain them.
-
-An advertisement that felt too specific.
-
-A recommendation arriving at exactly the wrong moment.
-
-A stranger using a phrase that seemed familiar.
-
-A song that appeared to answer a thought.
-
-A notification that seemed impossible.
-
-Any one of them meant nothing.
-
-That was the problem.
-
-Modern systems already knew astonishing amounts about people. Advertising networks guessed. Recommendation engines predicted. Phones synchronized. Data brokers assembled fragments. Friends repeated things. Algorithms noticed behavior people did not realize they were producing.
-
-A machine did not need to read a mind to create the feeling of being watched.
-
-It only needed enough data to make a good guess.
-
-And if somebody deliberately manipulated even a few of those systems, ordinary coincidence could become something much darker.
-
-Skyler's mistake was not noticing patterns.
-
-His mistake was believing every pattern had to share one author.
-
-His second mistake was thinking he could survive by solving all of them.
-
-The novel begins when those mistakes become expensive.
-
-By then, the phone was no longer just a phone.
-
-It was a mirror.
-
-And Skyler had started wondering who was standing on the other side.
+Then, at 3:17 in the morning, a song began playing from a phone with a broken screen.
 
 ---
-
 
 # Prologue
 ## The Song Beneath the Static
